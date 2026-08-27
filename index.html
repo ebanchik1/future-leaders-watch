@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Future Leaders Watch — Early Accumulation Monitor</title>
+<meta name="description" content="A shared daily monitoring screen for early-accumulation trade ideas across space, defense, biotech, nuclear, robotics, quantum, and cybersecurity — trade theses, watchlists, and catalysts. Not investment advice." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,700&f[]=satoshi@400,500,600,700&display=swap">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23113a3f'/%3E%3Crect x='4' y='19' width='6' height='9' rx='1' fill='%234f98a3'/%3E%3Crect x='13' y='12' width='6' height='16' rx='1' fill='%234f98a3'/%3E%3Crect x='22' y='5' width='6' height='23' rx='1' fill='%234f98a3'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <div class="brand">
+      <svg class="brand__logo" viewBox="0 0 32 32" fill="none" aria-label="Future Leaders Watch logo">
+        <rect x="4" y="19" width="6" height="9" rx="1" fill="currentColor"/>
+        <rect x="13" y="12" width="6" height="16" rx="1" fill="currentColor"/>
+        <rect x="22" y="5" width="6" height="23" rx="1" fill="currentColor"/>
+        <circle cx="26.5" cy="4.5" r="1.6" fill="currentColor"/>
+        <path d="M23 8 A5 5 0 0 1 26.5 4.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+      </svg>
+      <div class="brand__text">
+        <h1>Future Leaders Watch</h1>
+        <div class="tagline">EARLY ACCUMULATION SIGNAL SCREEN</div>
+      </div>
+    </div>
+    <nav class="header-nav" aria-label="Section navigation">
+      <a href="#alerts">Alerts</a>
+      <a href="#watchlist">Watchlist</a>
+      <a href="#news">News</a>
+      <a href="#thesis">Thesis Library</a>
+      <a href="#strategy">How We Screen</a>
+    </nav>
+    <div class="header-right">
+      <div class="status-badge">
+        <span class="status-badge__dot"></span>
+        <span id="last-updated-badge">Loading…</span>
+      </div>
+      <button class="theme-toggle" data-theme-toggle aria-label="Switch to light mode">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section id="overview" class="wrap" style="padding-bottom: var(--space-6);">
+    <p style="max-width: 68ch; color: var(--color-text-muted); font-size: var(--text-sm);">
+      A shared screen for spotting <strong style="color:var(--color-text);">early-accumulation</strong> setups before the broader market notices — stocks basing quietly for months, then breaking out gradually on rising volume, ideally alongside insider buying, fresh institutional positions, and real catalysts. Built to track trade ideas and thesis, not personal positions or P&amp;L. <a href="#strategy" style="color:var(--color-primary); font-weight:600;">See the full screening approach ↓</a>
+    </p>
+  </section>
+
+  <section class="wrap">
+    <div class="kpi-grid" id="kpi-grid" aria-label="Key metrics"></div>
+  </section>
+
+  <section id="alerts" class="wrap">
+    <div class="section-head">
+      <div>
+        <h2>New Alerts</h2>
+        <div class="section-sub">Names flagged or re-triggered since the last refresh, ranked by conviction score.</div>
+      </div>
+      <span class="section-count" id="alerts-count">0 today</span>
+    </div>
+    <div class="alert-grid" id="alerts-grid"></div>
+  </section>
+
+  <section id="watchlist" class="wrap">
+    <div class="section-head">
+      <div>
+        <h2>Watchlist</h2>
+        <div class="section-sub">Every name currently being tracked, sorted by conviction score. Click a row to jump to its full thesis.</div>
+      </div>
+      <span class="section-count" id="watchlist-count">0 tickers</span>
+    </div>
+    <div class="filter-tabs" id="sector-filters"></div>
+    <div class="table-container">
+      <table class="watchlist-table" id="watchlist-table">
+        <thead>
+          <tr>
+            <th data-sort="ticker">Ticker <span class="sort-arrow">↕</span></th>
+            <th data-sort="sector">Sector <span class="sort-arrow">↕</span></th>
+            <th data-sort="price">Price <span class="sort-arrow">↕</span></th>
+            <th data-sort="change_1m_pct">1M Chg <span class="sort-arrow">↕</span></th>
+            <th data-sort="trend">Trend <span class="sort-arrow">↕</span></th>
+            <th data-sort="status">Status <span class="sort-arrow">↕</span></th>
+            <th data-sort="score">Score <span class="sort-arrow">↕</span></th>
+            <th data-sort="added_date">Added <span class="sort-arrow">↕</span></th>
+          </tr>
+        </thead>
+        <tbody id="watchlist-tbody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="news" class="wrap">
+    <div class="section-head">
+      <div>
+        <h2>News &amp; Catalysts</h2>
+        <div class="section-sub">Recent contract wins, FDA milestones, analyst moves, and other catalysts driving each name.</div>
+      </div>
+      <span class="section-count" id="news-count">0 items</span>
+    </div>
+    <div class="news-list" id="news-list"></div>
+  </section>
+
+  <section id="thesis" class="wrap">
+    <div class="section-head">
+      <div>
+        <h2>Thesis Library</h2>
+        <div class="section-sub">Full narrative for every tracked ticker — signal detail, catalysts, risks, and sources. Click to expand.</div>
+      </div>
+      <span class="section-count" id="thesis-count">0 write-ups</span>
+    </div>
+    <div class="thesis-list" id="thesis-list"></div>
+  </section>
+
+  <section id="strategy" class="wrap">
+    <div class="section-head">
+      <div>
+        <h2>How We Screen</h2>
+        <div class="section-sub">The "breadcrumbs before the market notices" approach behind this watchlist.</div>
+      </div>
+    </div>
+    <div class="strategy-grid">
+      <div class="strategy-steps">
+        <div class="strategy-step">
+          <span class="strategy-step__num">1</span>
+          <div class="strategy-step__text"><strong>Stable base, 4–8 months.</strong> Look for names that have gone quiet — tight range, low volatility, no story — before anything moves.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">2</span>
+          <div class="strategy-step__text"><strong>Gradual breakout, not a spike.</strong> A slow grind higher over weeks beats a single headline-driven pop — spikes get chased and faded.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">3</span>
+          <div class="strategy-step__text"><strong>Rising volume.</strong> Steady, climbing participation confirms real accumulation rather than a one-day event.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">4</span>
+          <div class="strategy-step__text"><strong>Insider buying.</strong> Open-market cash purchases by officers/directors — not RSU vesting or routine grants — are the strongest single tell.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">5</span>
+          <div class="strategy-step__text"><strong>Institutional buying.</strong> New 13F/13G positions or meaningfully rising stakes from funds, ideally independent of news.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">6</span>
+          <div class="strategy-step__text"><strong>Real catalysts.</strong> Contract wins, FDA milestones, M&amp;A chatter, or analyst upgrades — evidence the fundamentals are actually improving.</div>
+        </div>
+        <div class="strategy-step">
+          <span class="strategy-step__num">7</span>
+          <div class="strategy-step__text"><strong>Small/mid-cap bias.</strong> Market cap generally under ~$10B, where a catalyst can still move the stock meaningfully.</div>
+        </div>
+      </div>
+      <div>
+        <h3 style="font-size: var(--text-base); margin-bottom: var(--space-3);">Target sectors</h3>
+        <div class="sector-chips">
+          <span class="sector-chip">AI Infrastructure</span>
+          <span class="sector-chip">Space</span>
+          <span class="sector-chip">Defense</span>
+          <span class="sector-chip">Biotech</span>
+          <span class="sector-chip">Medtech</span>
+          <span class="sector-chip">Nuclear</span>
+          <span class="sector-chip">Robotics</span>
+          <span class="sector-chip">Quantum Computing</span>
+          <span class="sector-chip">Cybersecurity</span>
+        </div>
+      </div>
+      <div>
+        <div class="quote-block">
+          "We're looking for the breadcrumbs before the market notices — quiet accumulation, not the headline everyone already read."
+          <cite>— Screening philosophy, adapted from the original mom &amp; ChatGPT research conversation</cite>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="wrap">
+  <div class="footer-disclaimer">
+    <strong>Not financial advice.</strong> This page tracks trade ideas, screening signals, and public news for research and discussion purposes only — it intentionally does not show either person's brokerage holdings, positions, or P&amp;L. Conviction scores are a qualitative research heuristic, not a recommendation to buy or sell. Do your own diligence before acting on anything shown here.
+  </div>
+  <div class="footer-meta">
+    <span>Future Leaders Watch · shared research screen</span>
+    <span id="footer-refresh">Refreshes weekdays before market open &amp; after market close</span>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
