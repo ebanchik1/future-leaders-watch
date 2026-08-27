@@ -657,17 +657,23 @@ section:last-of-type { border-bottom: none; }
 }
 
 .news-item {
-  display: grid;
-  grid-template-columns: 90px 70px 1fr;
-  gap: var(--space-4);
-  align-items: baseline;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
   padding: var(--space-3) var(--space-4);
   border-radius: var(--radius-md);
   transition: background var(--transition-interactive);
 }
 .news-item:hover { background: var(--color-surface-offset); }
 
-.news-item .ticker { font-family: var(--font-mono); font-weight: 700; font-size: var(--text-sm); color: var(--color-primary); }
+.news-item__meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.news-item .ticker { font-family: var(--font-mono); font-weight: 700; font-size: var(--text-sm); color: var(--color-primary); min-width: 3.5rem; }
 .news-item .headline { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
 
 /* ============ Thesis library ============ */
@@ -888,8 +894,6 @@ footer {
   .header-nav { display: none; }
   .site-header__inner { gap: var(--space-3); }
   .section-head { flex-direction: column; align-items: flex-start; }
-  .news-item { grid-template-columns: 70px 1fr; }
-  .news-item .headline { grid-column: 1 / -1; }
 }
 
 @media (max-width: 480px) {

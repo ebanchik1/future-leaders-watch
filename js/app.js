@@ -42,6 +42,18 @@
     return (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
   }
 
+  // Strip inline (https://...) citations and trailing bare URLs from display copy —
+  // sources are already rendered as clickable chips in the Thesis Library.
+  function stripUrls(s) {
+    if (!s) return s;
+    return s
+      .replace(/\(\s*(?:https?:\/\/|\[)[^)]*\)/g, '')
+      .replace(/https?:\/\/\S+/g, '')
+      .replace(/\s{2,}/g, ' ')
+      .replace(/\s+([.,;])/g, '$1')
+      .trim();
+  }
+
   function statusBadgeClass(status) {
     if (!status) return 'badge--monitor';
     var s = status.toUpperCase();
@@ -120,7 +132,7 @@
         '<div><span class="badge ' + statusBadgeClass(a.status) + '">' + esc(a.status) + '</span> ' +
           (a.is_new_discovery ? '<span class="badge badge--early" style="margin-left:4px;">NEW NAME</span>' : '') +
         '</div>' +
-        '<div class="alert-card__thesis">' + esc(a.thesis) + '</div>' +
+        '<div class="alert-card__thesis">' + esc(stripUrls(a.thesis)) + '</div>' +
         '<div class="alert-card__footer">' +
           '<span class="sector-tag">' + esc(a.sector) + '</span>' +
           '<a class="alert-card__link" href="#thesis-' + esc(a.ticker) + '" data-jump="' + esc(a.ticker) + '">Full thesis →</a>' +
@@ -210,9 +222,11 @@
     }
     list.innerHTML = news.map(function (n) {
       return '<div class="news-item" data-jump="' + esc(n.ticker) + '">' +
-        '<span class="ticker">' + esc(n.ticker) + '</span>' +
-        '<span class="sector-tag">' + esc(n.sector) + '</span>' +
-        '<span class="headline">' + esc(n.headline) + '</span>' +
+        '<div class="news-item__meta">' +
+          '<span class="ticker">' + esc(n.ticker) + '</span>' +
+          '<span class="sector-tag">' + esc(n.sector) + '</span>' +
+        '</div>' +
+        '<span class="headline">' + esc(stripUrls(n.headline)) + '</span>' +
       '</div>';
     }).join('');
     list.querySelectorAll('.news-item').forEach(function (item) {
@@ -239,14 +253,14 @@
           '<svg class="thesis-card__chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>' +
         '</div>' +
         '<div class="thesis-card__body">' +
-          '<div class="thesis-card__section"><h4>Thesis</h4><p>' + esc(r.thesis) + '</p></div>' +
+          '<div class="thesis-card__section"><h4>Thesis</h4><p>' + esc(stripUrls(r.thesis)) + '</p></div>' +
           '<div class="signal-grid">' +
-            '<div class="thesis-card__section"><h4>Insider Buying</h4><p>' + esc(sig.insider_buying || '—') + '</p></div>' +
-            '<div class="thesis-card__section"><h4>Institutional Buying</h4><p>' + esc(sig.institutional_buying || '—') + '</p></div>' +
+            '<div class="thesis-card__section"><h4>Insider Buying</h4><p>' + esc(stripUrls(sig.insider_buying) || '—') + '</p></div>' +
+            '<div class="thesis-card__section"><h4>Institutional Buying</h4><p>' + esc(stripUrls(sig.institutional_buying) || '—') + '</p></div>' +
           '</div>' +
-          (catalysts.length ? '<div class="thesis-card__section"><h4>Catalysts</h4><ul>' + catalysts.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul></div>' : '') +
-          (analystMoves.length ? '<div class="thesis-card__section"><h4>Analyst Moves</h4><ul>' + analystMoves.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul></div>' : '') +
-          (r.risks ? '<div class="thesis-card__section"><h4>Risks &amp; Caveats</h4><p>' + esc(r.risks) + '</p></div>' : '') +
+          (catalysts.length ? '<div class="thesis-card__section"><h4>Catalysts</h4><ul>' + catalysts.map(function (c) { return '<li>' + esc(stripUrls(c)) + '</li>'; }).join('') + '</ul></div>' : '') +
+          (analystMoves.length ? '<div class="thesis-card__section"><h4>Analyst Moves</h4><ul>' + analystMoves.map(function (c) { return '<li>' + esc(stripUrls(c)) + '</li>'; }).join('') + '</ul></div>' : '') +
+          (r.risks ? '<div class="thesis-card__section"><h4>Risks &amp; Caveats</h4><p>' + esc(stripUrls(r.risks)) + '</p></div>' : '') +
           (sources.length ? '<div class="thesis-card__section"><h4>Sources</h4><div class="sources-list">' + sources.map(function (s) {
             return '<a class="source-chip" href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc(s.title) + '">' + esc(s.title) + '</a>';
           }).join('') + '</div></div>' : '') +
