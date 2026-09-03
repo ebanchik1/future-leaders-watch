@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-03T09:28:05.662856-04:00",
-  "last_updated_display": "Sep 3, 2026 \u00b7 9:28 AM ET",
+  "last_updated": "2026-09-03T18:13:57.447817-04:00",
+  "last_updated_display": "Sep 3, 2026 \u00b7 6:13 PM ET",
   "refresh_cadence": "Weekdays, ~8:00 AM & 5:00 PM ET",
   "kpis": {
     "watchlist_count": 17,
     "new_alerts_count": 0,
     "high_conviction_count": 0,
     "sectors_covered": 9,
-    "avg_score": 5.4
+    "avg_score": 5.0
   },
   "sector_summary": [
     {
@@ -53,200 +53,39 @@
       "ticker": "OPTX",
       "name": "Syntec Optics Holdings, Inc.",
       "sector": "Defense Technology",
-      "price": 7.58,
-      "change_1m_pct": -11.1,
-      "volume_trend": "Volume remains near its recent average, consistent with continued steady interest following the prior contract news and insider buying rather than a fresh volume surge.",
-      "trend": "consolidating",
+      "price": 7.87,
+      "change_1m_pct": 4.5,
+      "volume_trend": "Below average intraday volume, consistent with a steady grind rather than a spike",
+      "trend": "climbing",
       "signals": {
-        "insider_buying": "Unchanged from the prior review: director Albert Manzone's open-market cash purchases (including an $8,681 buy and a larger ~$5.0 million purchase reported around Aug 25-26, 2026) remain the standout insider signal in this group, with no new Form 4 activity surfacing since.",
-        "institutional_buying": "Unchanged: Tema ETFs' ~$7.66 million new stake (reported Aug 12, 2026) remains the key institutional signal; no new 13F or 13G filings have surfaced since.",
+        "insider_buying": "Confirmed but unchanged from the prior review: Director Albert Manzone's open-market purchase of 8,681 shares at $9.20 (a 35% increase in his stake), filed Aug 26, 2026. No new insider transactions have been filed since.",
+        "institutional_buying": "Tema ETFs stake unchanged from the prior review; no new 13F/13G filings identified this cycle.",
         "catalysts": [
-          "The satellite-waveguide order news (reported Aug 25-26, 2026) remains the most recent confirmed catalyst -- no newer contract announcements have surfaced.",
-          "A Sept 2 Zacks recap confirmed Q2 2026 results showed the company swinging to earnings on defense and communications segment growth, consistent with the previously reported Aug 10 print showing revenue up 26.1% year-over-year."
+          "Company swung to a profit in Q2 2026 on defense and communications-segment growth, with shares up 12.3% since the earnings report and 7.9% over the trailing month",
+          "New order to build specialized high-tech waveguides for satellite applications, announced Aug 26, 2026 (previously identified catalyst, intact but not new this cycle)"
         ],
         "analyst_moves": []
       },
       "score": 7,
       "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "Syntec Optics continues to check the most boxes in this group: genuine open-market insider cash buying from director Albert Manzone, a fresh institutional stake from Tema ETFs, and a real satellite-waveguide contract catalyst supporting the story. This re-check found no new developments since the prior screening -- the insider buying and Tema ETFs stake are unchanged, and the satellite-waveguide catalyst remains intact -- which is an expected and reassuring outcome for a stock re-screened only about 15 hours after its last review.",
-      "risks": "The stock remains a small, thinly traded micro-cap with a wide 52-week range, making it prone to sharp swings on modest news flow or profit-taking. Profitability lags revenue growth in absolute terms even after the recent swing to earnings, and the current setup depends on the insider and institutional signals continuing to hold rather than fade with time.",
+      "thesis": "Syntec Optics continues to exhibit the core elements of a quiet-accumulation setup: genuine director open-market buying, an intact satellite-waveguide order catalyst, and a post-earnings profitability swing driven by defense and communications growth, all without a stake reduction from its institutional holder. The stock's gradual climb on below-average volume is consistent with a steady base-building pattern rather than a speculative spike, though no incremental insider or institutional signal has emerged since the last review to justify an upgrade.",
+      "risks": "Syntec Optics is a small, thinly traded microcap where a single order cancellation or contract delay could have an outsized impact on results. The lack of any new insider or institutional signal since late August means the thesis is currently resting on unchanged data, and continued absence of fresh capital-backing confirmation could stall further re-rating.",
       "sources": [
         {
-          "title": "Insider Buying: Syntec Optics (NASDAQ:OPTX) Director Purchases $2,988,972 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-syntec-optics-nasdaq-optx-director-purchases-2988972-in-stock-2026-08-26/"
-        },
-        {
-          "title": "Syntec Optics (NASDAQ:OPTX) Director Buys $5,000,000 in Stock",
-          "url": "https://www.marketbeat.com/instant-alerts/syntec-optics-nasdaq-optx-director-buys-5000000-in-stock-2026-08-26/"
-        },
-        {
-          "title": "Tema ETFs LLC Takes $7.66 Million Position in Syntec Optics Holdings, Inc. (OPTX)",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-tema-etfs-llc-takes-766-million-position-in-syntec-optics-holdings-inc-optx-2026-08-12/"
-        },
-        {
-          "title": "Syntec Optics secures order for satellite waveguides - Investing.com",
-          "url": "https://www.investing.com/news/company-news/syntec-optics-secures-order-for-satellite-waveguides-93CH-4876985"
+          "title": "OPTX - Syntec Optics Holdings - SEC Form 4 Insider Trading Screener",
+          "url": "http://openinsider.com/OPTX"
         },
         {
           "title": "OPTX Swings to Earnings in Q2 on Defense, Communications Growth - Zacks",
           "url": "https://www.zacks.com/stock/news/2975321/optx-swings-to-earnings-in-q2-on-defense-communications-growth"
         },
         {
-          "title": "Syntec Optics (OPTX) Stock Price, News & Analysis - MarketBeat",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/OPTX/"
-        }
-      ],
-      "added_date": "2026-08-27",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "NTHI",
-      "name": "NeOnc Technologies Holdings, Inc.",
-      "sector": "Biotech/CNS Oncology",
-      "price": 5.03,
-      "change_1m_pct": 45.4,
-      "volume_trend": "Rising versus the prior base, though recent daily volume has moderated somewhat since the mid-August insider-buying cluster",
-      "trend": "breaking_out",
-      "signals": {
-        "insider_buying": "No new Form 4 open-market purchases by co-CEOs Amir Heshmatpour or Thomas Chen have been filed since the August 18-21, 2026 cluster (transactions dated August 14-21, filed August 17-21). Cross-checked across OpenInsider, StockTitan, InsiderAct, and The Insider's Post -- all confirm the most recent transaction dates are August 18 (Heshmatpour) and August 21 (Chen), with no newer filings identified. This is now the third consecutive screening pass without a fresh insider purchase, and the gap should be watched closely going forward.",
-        "institutional_buying": "No 13F/13G institutional filings have been identified for NTHI to date; the stock's small float and recent listing history mean institutional ownership data remains sparse.",
-        "catalysts": [
-          "August 12-13, 2026 positive glioma trial data showing NEO100 reaching 26.09-month median overall survival, which drove the stock higher (Investing.com, https://www.investing.com/news/stock-market-news/neonc-technologies-stock-jumps-on-positive-glioma-trial-data-93CH-4854879)",
-          "August 13, 2026 Stonegate Capital Partners coverage update following the trial data (StockTitan, https://www.stocktitan.net/news/NTHI/stonegate-capital-partners-updates-coverage-on-ne-onc-technologies-kuhjbbednz3a.html)"
-        ],
-        "analyst_moves": []
-      },
-      "score": 7,
-      "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "NeOnc Technologies remains the group's most compelling clinical-catalyst story, with strong glioma survival data and a sustained multi-month run of co-CEO open-market purchases through mid-to-late August establishing genuine insider conviction. However, no fresh Form 4 purchases by either co-CEO have been filed in the roughly two weeks since August 21, and this marks the third consecutive screening pass without a new insider buy. Until fresh insider buying reconfirms, the name is held at a high-priority rather than high-conviction rating.",
-      "risks": "The insider-buying signal that originally distinguished this name is going stale, and continued absence of new purchases could indicate insiders view the stock as fairly valued after its recent run. The stock also lacks visible institutional 13F/13G sponsorship, and its small float and low average volume make it more susceptible to volatility on thin trading.",
-      "sources": [
-        {
-          "title": "NTHI - Neonc Technologies Holdings, Inc. - SEC Form 4 Insider Trading Screener (OpenInsider)",
-          "url": "http://openinsider.com/NTHI"
+          "title": "Syntec Optics Holdings, Inc. Class A Common Stock (OPTX) - MarketWatch",
+          "url": "https://www.marketwatch.com/investing/stock/optx"
         },
         {
-          "title": "NTHI Insider Buying \u2014 Recent SEC Form 4 Activity (2026)",
-          "url": "https://insideract.com/stock/NTHI/insider-buying"
-        },
-        {
-          "title": "SEC Form 4 Insider Trading Tracker (The Insider's Post)",
-          "url": "https://theinsiderspost.com/stocks/NTHI/insider-transactions"
-        },
-        {
-          "title": "NeOnc Technologies stock jumps on positive glioma trial data",
-          "url": "https://www.investing.com/news/stock-market-news/neonc-technologies-stock-jumps-on-positive-glioma-trial-data-93CH-4854879"
-        },
-        {
-          "title": "NeOnc Technologies (NTHI) Stock Price, News & Analysis (StockTitan)",
-          "url": "https://www.stocktitan.net/overview/NTHI/"
-        }
-      ],
-      "added_date": "2026-08-28",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "AVAV",
-      "name": "AeroVironment, Inc.",
-      "sector": "Defense Technology",
-      "price": 145.39,
-      "change_1m_pct": -14.2,
-      "volume_trend": "Regular-session volume was in line with recent averages into Wednesday's close, but pre-market volume has picked up sharply Thursday morning alongside the price surge following the new Army contract announcement.",
-      "trend": "climbing",
-      "signals": {
-        "insider_buying": "None identified. No open-market officer or director cash purchases have surfaced; recent Form 4 activity remains limited to routine 10b5-1 plan sales by directors.",
-        "institutional_buying": "No distinct new institutional accumulation filing has surfaced this cycle beyond routine position trackers.",
-        "catalysts": [
-          "Genuinely new and material: on Sept 2 at 3:15 PM ET, AeroVironment announced a $464.8 million U.S. Army Other Transaction Agreement for its LOCUST X3 laser weapon system under the Enduring-High Energy Laser (E-HEL) program -- the first-ever U.S. production contract for a directed-energy counter-drone system, marking the sector's shift from prototype to series production.",
-          "The stock was trading roughly 6% higher in Thursday pre-market action (around $154) following the announcement, with BTIG (Buy, $205 target) and William Blair (Buy) both reaffirming positive ratings citing the contract as validation of AV's directed-energy platform and a credibility restorer for the growth story.",
-          "Fiscal Q1 2027 earnings are scheduled for Sept 9, 2026, which will be the first opportunity for management to detail how the E-HEL award flows into revenue guidance."
-        ],
-        "analyst_moves": [
-          "BTIG maintained its Buy rating and $205 price target on Sept 2-3, citing the E-HEL award as reinforcing the investment case.",
-          "William Blair reaffirmed its Buy rating, arguing the contract restores credibility and supports scalable growth."
-        ]
-      },
-      "score": 6.5,
-      "status": "CORE WATCH",
-      "thesis": "AeroVironment's setup improved materially overnight on a genuinely new, high-quality catalyst: a $464.8 million Army contract for its LOCUST directed-energy laser system, the first production award of its kind in Pentagon history. Two sell-side firms reaffirmed Buy ratings on the news and shares are indicated roughly 6% higher pre-market, a real, catalyst-driven move rather than technical drift. This lifts AVAV out of its prior pure-decline pattern, though the stock remains down over the past month and well off its 52-week high, and the setup still lacks the insider or fresh institutional buying that would support a higher conviction score.",
-      "risks": "The pre-market pop has not yet been tested during a full regular session, and the stock remains roughly 14% lower over the past month heading into the news, so confirmation of a genuine trend change (versus a one-day pop that fades) will depend on how shares hold into and through the Sept 9 earnings report. No officer or director has bought stock on the open market to corroborate management's confidence, and broader margin and guidance concerns that drove the recent pullback have not been resolved.",
-      "sources": [
-        {
-          "title": "AV's LOCUST Selected for Nearly $500 million Army Counter-UAS Contract for Enduring-High Energy Laser (E-HEL) Program - AeroVironment Investor Relations",
-          "url": "https://investor.avinc.com/news-releases/news-release-details/avs-locustr-selected-nearly-500-million-army-counter-uas"
-        },
-        {
-          "title": "Army awards AV $465 million in first directed energy production contract - Inside Defense",
-          "url": "https://insidedefense.com/daily-news/army-awards-av-465-million-first-directed-energy-production-contract"
-        },
-        {
-          "title": "Army awards AeroVironment nearly $500M contract for laser weapons - DefenseScoop",
-          "url": "https://defensescoop.com/2026/09/02/army-awards-aerovironment-nearly-500m-contract-laser-weapons/"
-        },
-        {
-          "title": "AVAV Stock In Focus As AeroVironment Wins $465M Army Laser Weapons Contract - Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/avav-stock-in-focus-as-aerovironment-wins-465-million-army-laser-weapons-contract/cZsrTUTRJHJ"
-        },
-        {
-          "title": "AeroVironment wins $465M Army contract for laser weapons - Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4639793-aerovironment-wins-465m-army-contract-for-laser-weapons"
-        },
-        {
-          "title": "AVAV News Today | Why did AeroVironment stock go up today? - MarketBeat",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/AVAV/news/"
-        },
-        {
-          "title": "AeroVironment Inc. Stock Quote (U.S.: Nasdaq) - MarketWatch",
-          "url": "https://www.marketwatch.com/investing/stock/avav"
-        }
-      ],
-      "added_date": "2026-08-27",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "UMAC",
-      "name": "Unusual Machines, Inc.",
-      "sector": "Defense Technology",
-      "price": 23.55,
-      "change_1m_pct": -12.0,
-      "volume_trend": "Volume remains below its recent average, consistent with a quieter consolidation phase following the round-trip from 52-week highs.",
-      "trend": "pulling_back",
-      "signals": {
-        "insider_buying": "None identified. No new open-market officer or director purchases have surfaced; recent Form 4 activity remains limited to CFO and CRO sales tied to option exercises and equity awards.",
-        "institutional_buying": "Unchanged: Wasatch Advisors' position and prior Piper Sandler analyst backing remain the key institutional/analyst support cited previously; BlackRock's 7.2% passive stake (disclosed in a prior filing) also remains on record, but no new 13F or 13G filing has surfaced this cycle.",
-        "catalysts": [
-          "No new company-specific catalyst has surfaced since the prior review; the drone-supply-chain and U.S.-manufacturing narrative that has previously supported the stock, including the Q2 2026 earnings call emphasis on capacity ahead of Q3 growth, remains the operative backdrop."
-        ],
-        "analyst_moves": []
-      },
-      "score": 6.5,
-      "status": "CORE WATCH",
-      "thesis": "Unusual Machines continues to trade well off its 52-week high, now around $23.55, in what remains a technical round-trip from its earlier breakout rather than a fresh setup. Institutional and analyst backing -- Wasatch Advisors' position, BlackRock's passive stake, and Piper Sandler's prior coverage -- continues to provide underlying support for the domestic-drone-supply-chain thesis, but the absence of insider buying keeps this a core-watch rather than high-conviction name. This re-check found no new developments since the prior screening, the expected outcome for a stock reviewed only about 15 hours earlier.",
-      "risks": "The stock remains well below its highs with no insider buying to signal officer or director conviction at current levels. Continued reliance on defense-budget and drone-policy tailwinds means any delay in U.S. counter-drone or domestic-manufacturing initiatives could pressure the stock further, and recent insider Form 4 activity has skewed toward sales (CFO and CRO) rather than purchases.",
-      "sources": [
-        {
-          "title": "Unusual Machines Inc. Stock Quote (U.S.) - MarketWatch",
-          "url": "https://www.marketwatch.com/investing/stock/umac"
-        },
-        {
-          "title": "Unusual Machines (UMAC) Institutional Ownership 2026 - MarketBeat",
-          "url": "https://www.marketbeat.com/stocks/NYSEAMERICAN/UMAC/institutional-ownership/"
-        },
-        {
-          "title": "Unusual Machines: BlackRock reports 7.2% stake - StockTitan",
-          "url": "https://www.stocktitan.net/sec-filings/UMAC/schedule-13g-unusual-machines-inc-passive-investment-disclosure-5-41f198f07dc2.html"
-        },
-        {
-          "title": "Unusual Machines Q2 Earnings Call Puts Capacity Ahead of Q3 Growth - Zacks",
-          "url": "https://www.zacks.com/stock/news/2972754/unusual-machines-q2-earnings-call-puts-capacity-ahead-of-q3-growth"
-        },
-        {
-          "title": "Unusual Machines CFO sells 11K shares at $26 - UMAC Form 4",
-          "url": "https://www.stocktitan.net/sec-filings/UMAC/form-4-unusual-machines-inc-insider-trading-activity-9786f95e85b5.html"
-        },
-        {
-          "title": "Unusual Machines, Inc. (UMAC) Latest Stock News - Yahoo Finance",
-          "url": "https://finance.yahoo.com/quote/UMAC/news/"
+          "title": "Syntec Optics Holdings, Inc. (OPTX) Stock Price, Quote - Seeking Alpha",
+          "url": "https://seekingalpha.com/symbol/OPTX"
         }
       ],
       "added_date": "2026-08-27",
@@ -256,36 +95,42 @@
       "ticker": "CAPR",
       "name": "Capricor Therapeutics, Inc.",
       "sector": "Biotech",
-      "price": 9.93,
-      "change_1m_pct": 136.4,
-      "volume_trend": "Elevated but choppy around each regulatory headline rather than showing a smooth, gradually rising trend",
-      "trend": "breaking_out",
+      "price": 9.53,
+      "change_1m_pct": 125.0,
+      "volume_trend": "Volume has remained heavy since the late-July FDA data-concern selloff, spiking further on the sharp late-August recovery rally off the ~$4 low; still driven by binary-catalyst news flow rather than a stable, gradual accumulation pattern",
+      "trend": "consolidating",
       "signals": {
-        "insider_buying": "No open-market insider purchases identified. The most recent Form 4 activity was a CFO sale in June under what appears to be a planned disposition, not a recent buy.",
-        "institutional_buying": "No new 13F/13G filings identified since the prior evening's review.",
+        "insider_buying": "No new open-market cash purchases by officers or directors identified since the morning review.",
+        "institutional_buying": "Walleye Capital disclosed a new position in late July; no newly surfaced institutional buying since the morning review.",
         "catalysts": [
-          "August 24, 2026 FDA extension of the deramiocel PDUFA target action date to November 22, 2026 while the agency reviews a revised BLA amendment -- already a known catalyst as of the prior evening's review",
-          "August 14, 2026 Cantor Fitzgerald upgrade to Overweight with price target raised to $28, and Oppenheimer's Outperform maintenance -- both already known prior to this review window"
+          "The stock has recovered sharply off its early-August lows (~$4) to the high-$9 range (~+125% over the past month), though this week saw a modest pullback attributable to renewed securities class-action law-firm announcements repeating procedural deadline information (lead-plaintiff deadline Sept 28, 2026) tied to the pre-existing lawsuit over deramiocel disclosures -- not a new substantive catalyst, just continued media coverage of already-known litigation",
+          "The extension of deramiocel's PDUFA target action date to Nov 22, 2026 (announced Aug 24) and the FDA advisory committee data concerns (late July) remain the operative, already-known catalysts pending resolution"
         ],
-        "analyst_moves": [
-          "September 1, 2026 Piper Sandler note reiterating that risk-reward favors owning the stock into the FDA decision (Finviz, https://finviz.com/news/387228/capricor-therapeutics-shares-rise-25-following-august-fda-update) -- directionally consistent with but not incremental to the already-known Oppenheimer/Piper Sandler upgrade thesis"
-        ]
+        "analyst_moves": []
       },
       "score": 6.5,
       "status": "CORE WATCH",
-      "thesis": "Capricor remains one of the more explosive re-rating stories in the group, driven by the FDA's willingness to review a revised deramiocel BLA amendment and supportive sell-side commentary, with the November 22 PDUFA date as the next major catalyst. No genuinely new insider or institutional signal has emerged since the prior review, and the sharp, headline-driven price action is more spike-like than the gradual base-building this screen favors, keeping it just below high-conviction status.",
-      "risks": "The FDA advisory committee's prior 9-to-3 vote against the original cardiomyopathy indication underscores real regulatory uncertainty ahead of the November PDUFA date, and an ongoing securities class action related to prior clinical data disclosures adds legal overhang. The stock's parabolic move increases the risk of a sharp pullback on any negative regulatory or litigation news.",
+      "thesis": "Capricor's setup remains dominated by regulatory uncertainty around deramiocel following the FDA staff's late-July data concerns and the subsequent PDUFA extension to Nov 22. The stock has staged a sharp recovery off its early-August lows near $4 back into the high-$9 range (roughly +125% over the past month), though this week's modest pullback reflects recycled securities-litigation headlines rather than any new substantive development, and no fresh insider buying or institutional accumulation has emerged to offset the regulatory overhang. Pending FDA resolution or a fresh insider-buying signal, the stock is held at a core-watch designation reflecting its still-elevated volatility and binary regulatory catalyst.",
+      "risks": "An unfavorable FDA decision on deramiocel at the new Nov 22 PDUFA date would be a major setback for the company's lead program and could reverse much of the recent recovery. The ongoing securities class action adds legal and reputational overhang, and despite the sharp rebound the stock remains well below its pre-selloff highs, making it highly sensitive to further regulatory or litigation news.",
       "sources": [
         {
-          "title": "Capricor Therapeutics shares rise 2.5% following August FDA update",
-          "url": "https://finviz.com/news/387228/capricor-therapeutics-shares-rise-25-following-august-fda-update"
+          "title": "CAPR News Today | Why did Capricor Therapeutics stock go down today?",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/CAPR/news/"
         },
         {
-          "title": "Capricor Therapeutics (NASDAQ:CAPR) Shares Gap Up - Still a Buy?",
-          "url": "https://www.marketbeat.com/instant-alerts/price-capricor-therapeutics-nasdaq-capr-shares-gap-up-still-a-buy-2026-09-01/"
+          "title": "Capricor Therapeutics Announces Extension of PDUFA Target Action Date",
+          "url": "https://www.capricor.com/investors/news-events/press-releases/detail/354/capricor-therapeutics-announces-extension-of-pdufa-target"
         },
         {
-          "title": "Capricor Therapeutics, Inc. Stock Quote (MarketWatch)",
+          "title": "FDA staff flags data concerns about Capricor's therapy",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-staff-flags-concerns-capricors-duchenne-heart-disease-therapy-2026-07-27/"
+        },
+        {
+          "title": "Piper Sandler cuts Capricor stock rating after FDA panel vote",
+          "url": "https://www.investing.com/news/analyst-ratings/piper-sandler-cuts-capricor-stock-rating-after-fda-panel-vote-93CH-4822587"
+        },
+        {
+          "title": "Capricor Therapeutics Inc. Stock Quote (U.S.: Nasdaq) - MarketWatch",
           "url": "https://www.marketwatch.com/investing/stock/capr"
         }
       ],
@@ -293,37 +138,155 @@
       "last_updated": "2026-09-03"
     },
     {
-      "ticker": "RDW",
-      "name": "Redwire Corp",
-      "sector": "Space Infrastructure",
-      "price": 10.33,
-      "change_1m_pct": 12.65,
-      "volume_trend": "fading -- weekly average hourly volume has declined from ~2.4M shares in early August to ~1.1M shares now, even as price stabilizes",
+      "ticker": "NTHI",
+      "name": "NeOnc Technologies Holdings, Inc.",
+      "sector": "Biotech/CNS Oncology",
+      "price": 4.79,
+      "change_1m_pct": 38.4,
+      "volume_trend": "Volume has stayed elevated relative to the pre-August baseline following the mid-August insider-buying and clinical-data news, though it has cooled somewhat over the past two weeks without fresh catalysts to sustain it",
       "trend": "consolidating",
       "signals": {
-        "insider_buying": "No open-market cash purchases by officers or directors. The most recent Form 4 filings (July 10-16, 2026) are all RSU vesting awards and tax-withholding share transfers (F-INKIND) for executives including CEO Peter Cannito, not cash buys. No new insider filings have appeared since the prior screen.",
-        "institutional_buying": "No new 13F/13G filings dated within this window. Existing large holders (BlackRock, State Street, Mirae Asset) show no fresh incremental disclosures since the last screen.",
+        "insider_buying": "Checked carefully for any new Form 4 filed today (Sept 3): none found. SEC EDGAR's official filing history for NeOnc (CIK 0001979414) confirms no filings of any kind -- Form 4 or otherwise -- have been submitted since an 8-K/A on Aug 21, 2026. The most recent confirmed open-market cash purchases remain co-CEO Amir Heshmatpour's Aug 18 buy of 9,000 shares at $5.54 (filed Aug 18) and co-CEO Thomas Chen's Aug 18 buy of 12,757 shares at $5.487 (filed Aug 20). This is now the fourth consecutive review cycle without a newer confirmed purchase from either co-CEO.",
+        "institutional_buying": "13F data shows modest institutional holders as of the most recent quarterly filings received Aug 17 (Bank of America, 224,412 shares) and Aug 7 (BlackRock, 179,850 shares); no September 2026 institutional filings have appeared, and no new 13F/13G activity has surfaced since the morning review.",
         "catalysts": [
-          "A Sept 3 recap article on Redwire's 24% August stock gain reiterates already-known Q2 2026 results (revenue of slightly more than $117 million, up nearly 90% year over year, and a record backlog above $542 million) -- this is a retrospective of prior-reported earnings, not a new catalyst (https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-rocketed-24-064245288.html)"
+          "Aug 12, 2026: NeOnc reported positive topline Phase 2a results for intranasal NEO100 in recurrent IDH1-mutant high-grade glioma, showing 48.9% progression-free survival",
+          "No new catalyst dated since the morning review was identified"
+        ],
+        "analyst_moves": []
+      },
+      "score": 6.5,
+      "status": "CORE WATCH",
+      "thesis": "NeOnc's co-CEOs built a well-documented open-market cash buying streak through mid-August alongside genuinely positive Phase 2a glioma data, and the stock has held a meaningful portion of those gains while consolidating. However, a careful check of SEC EDGAR's official filing index confirms no new Form 4 has been filed by either co-CEO since Aug 18 (Chen) and Aug 18 (Heshmatpour), extending the silence on fresh insider conviction to a fourth consecutive review cycle. With momentum in the insider-buying narrative now stalling and no new institutional or catalyst news to compensate, the name is stepped down modestly from prior EARLY HIGH-PRIORITY WATCH status to reflect that the buying streak has gone cold rather than accelerated.",
+      "risks": "Without continued insider buying, the strongest pillar of this thesis is aging and could be read by the market as a one-time event rather than sustained conviction. NeOnc remains a small, thinly traded clinical-stage company with a market cap near $130 million, meaning liquidity is limited and the stock can be volatile on modest news flow. Regulatory and clinical execution risk on NEO100 and other pipeline assets remains substantial given the company's pre-commercial stage.",
+      "sources": [
+        {
+          "title": "SEC EDGAR full-text search - NeOnc Technologies Form 4 filings",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001979414&type=4&dateb=&owner=include&count=40"
+        },
+        {
+          "title": "NeOnc (NTHI) CEO lifts direct stake to 3,096,000 shares",
+          "url": "https://www.stocktitan.net/sec-filings/NTHI/form-4-neonc-technologies-holdings-inc-insider-trading-activity-6ef96f961267.html"
+        },
+        {
+          "title": "NeOnc Technologies (NTHI) CEO adds stock in two August buys",
+          "url": "https://www.stocktitan.net/sec-filings/NTHI/form-4-neonc-technologies-holdings-inc-insider-trading-activity-0e2e0e0b2a1a.html"
+        },
+        {
+          "title": "NeOnc Technologies director Thomas Chen buys 47K shares",
+          "url": "https://www.stocktitan.net/sec-filings/NTHI/form-4-a-neonc-technologies-holdings-inc-amended-insider-trading-acti-0f988fa6e230.html"
+        },
+        {
+          "title": "NTHI - Neonc Technologies Holdings, Inc. - SEC Form 4 Insider Trading Screener",
+          "url": "http://openinsider.com/NTHI"
+        },
+        {
+          "title": "NTHI Insider Buying \u2014 Recent SEC Form 4 Activity (2026)",
+          "url": "https://insideract.com/stock/NTHI/insider-buying"
+        },
+        {
+          "title": "NeOnc Reports Positive Topline Phase 2a Results for Intranasal NEO100 in Recurrent IDH1-Mutant High-Grade Glioma",
+          "url": "https://www.stocktitan.net/news/NTHI/ne-onc-technologies-reports-positive-topline-phase-2a-results-for-w8k6wc06mmls.html"
+        },
+        {
+          "title": "Neonc Technologies (NTHI) Stock Chart and Price History 2026",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/NTHI/chart/"
+        },
+        {
+          "title": "Neonc Technologies (NTHI) Institutional Ownership - MarketBeat",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/NTHI/institutional-ownership/"
+        }
+      ],
+      "added_date": "2026-08-28",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "RDW",
+      "name": "Redwire Corporation",
+      "sector": "Space Infrastructure",
+      "price": 10.37,
+      "change_1m_pct": 7.6,
+      "volume_trend": "Volume has faded from the Aug 6-7 spike (~33M shares) down to a steadier ~8-12M share range this week, consistent with a post-catalyst cool-down rather than fresh accumulation.",
+      "trend": "consolidating",
+      "signals": {
+        "insider_buying": "No open-market cash purchases. All insider Form 4 activity in the past two months has been routine equity awards (A-AWARD) and tax-withholding share surrenders (F-INKIND) tied to vesting, including grants to CEO Peter Cannito and other executives in mid-July -- no genuine cash buying signal.",
+        "institutional_buying": "376 institutional holders on file; BlackRock (+45.1% QoQ) and State Street (+111.0% QoQ) both meaningfully increased positions, and Mirae Asset Global Investments holds a newer stake -- a real institutional accumulation signal, though it reflects last quarter's 13F cycle rather than anything newly filed today.",
+        "catalysts": [
+          "Redwire rang the NYSE opening bell on Sept 3 to mark its five-year anniversary and highlight its Edge Autonomy expansion -- a symbolic/PR event, not a fundamental catalyst.",
+          "Announced a strategic investment in next-generation phased-array antenna technology for warfighter and national-security communications, disclosed Sept 1.",
+          "Signed a collaboration agreement with SpaceX's Space Microgravity Development unit shortly after Q2 earnings.",
+          "Stock rallied roughly 24% in August on contract wins and the Kanematsu partnership for Japan's space sector, though it has since pulled back from its Aug 17 high on fading volume."
         ],
         "analyst_moves": []
       },
       "score": 6,
       "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "Redwire has stabilized after pulling back from its Aug 17 high near $13.58, now consolidating around $10.33 on fading volume. The name still screens well on catalyst strength given its record Q2 2026 print (90% revenue growth, backlog above $542 million) and prior large defense contract wins, and its roughly $2.5 billion market cap fits comfortably within the small/mid-cap mandate. However, no new insider cash buying or institutional 13F/13G activity has emerged since the prior screen, so the score holds at the early-watch tier pending a fresh signal.",
-      "risks": "Volume has continued to fade during the pullback, a sign that the recent rally lacks fresh buying conviction. GAAP profitability remains negative (a nearly $41 million net loss in Q2), and the stock's high beta to contract award headlines means it can give back gains quickly on any delay or program setback.",
+      "thesis": "Redwire retains the strongest institutional accumulation story in this group, with BlackRock and State Street both sharply increasing positions and a genuine flow of contract-driven catalysts, including the new phased-array antenna investment and the SpaceX SpaceMD collaboration. The stock has stabilized in the low-$10s after pulling back from its Aug 17 high on fading volume, and market cap of roughly $2.5B sits comfortably inside the fund's small/mid-cap mandate. No genuinely new insider, institutional, or catalyst development has emerged since this morning's screen, and insider cash buying remains completely absent -- the missing piece for a higher score.",
+      "risks": "Zero open-market insider cash buying despite a strong run -- all insider transactions are equity awards or tax-related share surrenders, not conviction purchases. The stock remains well off its August highs on lighter volume, suggesting the initial catalyst-driven enthusiasm has cooled. Small-cap volatility and continued net losses add execution risk.",
       "sources": [
+        {
+          "title": "Newsroom | Redwire - Edge Autonomy",
+          "url": "https://rdw.com/newsroom/"
+        },
         {
           "title": "Why Redwire Stock Rocketed 24% Higher in August",
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-rocketed-24-064245288.html"
         },
         {
-          "title": "Redwire Corporation Reports Second Quarter 2026 Financial Results",
-          "url": "https://ir.rdw.com/news-events/press-releases/detail/240/redwire-corporation-reports-second-quarter-2026-financial"
+          "title": "Redwire (RDW) Backs Phased Array Antennas For Warfighter And National Security",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-backs-phased-array-161512158.html"
         },
         {
-          "title": "RDW Stock Pulls Back From $14 Resistance: Is Retail Losing Conviction?",
-          "url": "https://stocktwits.com/news-articles/markets/equity/rdw-stock-pulls-back-from-14-resistance-is-retail-losing-conviction/cZYcPRQRJSo"
+          "title": "Redwire (RDW) Stock Chart and Price History 2026",
+          "url": "https://www.marketbeat.com/stocks/NYSE/RDW/chart/"
+        },
+        {
+          "title": "Redwire Corp. Stock Quote (U.S.: NYSE) - RDW",
+          "url": "https://www.marketwatch.com/investing/stock/rdw"
+        }
+      ],
+      "added_date": "2026-08-27",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment, Inc.",
+      "sector": "Defense Technology",
+      "price": 147.21,
+      "change_1m_pct": 1.3,
+      "volume_trend": "Near-average volume on contract news; the initial premarket surge faded through the regular session",
+      "trend": "climbing",
+      "signals": {
+        "insider_buying": "None. The only recent insider activity is a routine small sale by director Stephen F. Page (250 shares, part of a recurring monthly pattern) on Aug 17, 2026; no officer or director open-market purchases have corroborated the contract-driven rally.",
+        "institutional_buying": "No newly disclosed 13F/13G buying identified since the last review.",
+        "catalysts": [
+          "$464.8 million U.S. Army production contract for the Enduring-High Energy Laser (E-HEL) program, funding delivery of LOCUST X3 directed-energy laser weapon systems -- the first production award of its kind in U.S. history, announced Sept 2, 2026",
+          "AeroVironment has an upcoming earnings date on Sept 9, 2026"
+        ],
+        "analyst_moves": [
+          "TipRanks noted the LOCUST contract reinforced an existing Buy rating with an unchanged $205 price target",
+          "A separate note reaffirmed AeroVironment at Buy, citing the contract as restoring credibility and supporting scalable growth"
+        ]
+      },
+      "score": 6,
+      "status": "CORE WATCH",
+      "thesis": "AeroVironment landed a landmark $464.8 million Army directed-energy production contract, the first of its kind, which two analyst notes cited in reaffirming Buy ratings. However, the initial premarket pop of roughly 6% to $153.93 faded meaningfully through the regular session, with shares closing up a more modest 1.25% at $147.21, and no insider has stepped in with open-market buying to corroborate the move. With earnings due Sept 9, the catalyst is real but the technical follow-through and insider conviction pieces of the thesis remain incomplete.",
+      "risks": "The failure of the contract-day gain to hold through the full session raises the question of whether this becomes a durable re-rating or a one-day pop that fades further, especially given AeroVironment's roughly 40% year-to-date decline. LOCUST deliveries will be recognized over multiple years, so near-term financial impact is limited, and management has guided fiscal 2027 revenue to be back-half weighted. The Sept 9 earnings report is a binary near-term event that could offset or reinforce the contract catalyst.",
+      "sources": [
+        {
+          "title": "AeroVironment Rises 6% on $464.8M Army Laser Award, Unusual Machines and Red Cat Tick Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-rises-6-464-8m-132504714.html"
+        },
+        {
+          "title": "AeroVironment Inc. Stock Quote (U.S.: Nasdaq) - MarketWatch",
+          "url": "https://www.marketwatch.com/investing/stock/avav"
+        },
+        {
+          "title": "AeroVironment (AVAV) Stock Price, News & Analysis - MarketBeat",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/AVAV/"
+        },
+        {
+          "title": "AVAV - Aerovironment Inc - SEC Form 4 Insider Trading Screener",
+          "url": "http://openinsider.com/AVAV"
         }
       ],
       "added_date": "2026-08-27",
@@ -334,92 +297,83 @@
       "name": "Palladyne AI Corp.",
       "sector": "AI Infrastructure/Robotics",
       "price": 5.45,
-      "change_1m_pct": 3.8,
-      "volume_trend": "Volume remains subdued and below its recent average, consistent with a quiet, low-conviction consolidation rather than an active breakout or accumulation phase.",
+      "change_1m_pct": -11.7,
+      "volume_trend": "Muted, in-line with prior sessions; no volume expansion accompanying recent partnership announcements",
       "trend": "consolidating",
       "signals": {
-        "insider_buying": "None new. No open-market cash purchases by officers or directors have surfaced. The most recent dated Form 4s remain the Aug 21 tax-withholding-related RSU sales from CTO Denis Garagic, CFO Trevor Thatcher, and another insider -- confirmed sell-side transactions tied to equity vesting, not buying.",
-        "institutional_buying": "No fresh signal. No new 13F or 13G filing beyond the small, routine position changes already reflected in the prior review (Symphony Financial, Headlands Technologies) has surfaced.",
+        "insider_buying": "None confirmed. The most recent insider transactions (Aug 21, 2026) were routine tax-related sales by the CFO, General Counsel, and CTO -- no open-market cash purchases by any officer or director have been filed. This marks the sixth consecutive review cycle without capital-backing confirmation from insiders.",
+        "institutional_buying": "No new 13F or 13G filings identified; the most recent institutional filing on record remains a BlackRock 13G/A from January 2026, with no fresh accumulation disclosed since.",
         "catalysts": [
-          "Palladyne AI announced on Aug 31 that it will participate in investor conferences on Sept 9-10, 2026 -- a scheduled investor-relations event rather than a new operational or contract catalyst.",
-          "The underlying catalyst pipeline remains unchanged from prior reviews: NORDA SwarmOS autonomy integration, the Orkid Technologies partnership, Project Convergence Capstone 6 participation, and Defense Advisory Board engagement.",
-          "Q2 2026 results (reported Aug 7) showed strong revenue growth and backlog expansion, a previously reported catalyst with no new update this cycle."
+          "SwarmOS integration partnership with NORDA Dynamics' combat-proven Underdog Autonomy Module for GNSS-denied target detection and engagement",
+          "Fixed-wing UAV partnership with Orkid Tech to extend Palladyne Pilot and SwarmOS to a long-range, NDAA-compliant VTOL platform",
+          "Appointment of retired Maj. Gen. Mark 'Droopy' Clark, former MARSOC commander, to the company's Defense Advisory Board",
+          "SwarmOS and the Gremlin-X reusable mini-bomber performed at the U.S. Army's Project Convergence Capstone 6, achieving Impact Level 5 cloud security certification",
+          "Management to present at the Jefferies Global Industrials Conference (Sept 9) and Lake Street BIG10 conference (Sept 10)"
         ],
         "analyst_moves": []
       },
       "score": 6,
       "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "Palladyne AI's catalyst story remains one of the strongest in this group -- a growing defense-autonomy contract pipeline spanning NORDA SwarmOS, Orkid Technologies, Project Convergence Capstone 6, and Defense Advisory Board work, layered on a Q2 print that showed accelerating revenue and backlog. This is now the fifth consecutive review cycle without a genuine open-market insider purchase or a distinct new institutional accumulation filing to confirm that story with capital. The stock continues to hold a quiet, low-volume consolidation, and the upcoming Sept 9-10 investor conference appearances are a scheduling item rather than a new catalyst.",
-      "risks": "The persistent absence of insider or institutional buying -- now unconfirmed for five straight review cycles despite genuinely strong news flow -- is the central risk to this thesis; it may indicate insiders are simply restricted around contract announcements, or it may signal that smart money remains unconvinced at current levels. If a sixth consecutive cycle passes without capital confirmation, this setup should be reassessed for demotion, since a catalyst-only thesis without buying confirmation is not what this screen is designed to reward. The stock's small float and low share price also make it sensitive to any negative surprise in upcoming contract deliverables.",
+      "thesis": "Palladyne AI continues to generate a steady stream of legitimate defense-technology catalysts -- SwarmOS integrations with NORDA Dynamics and Orkid Tech, a Defense Advisory Board appointment, and a strong showing at Project Convergence Capstone 6 -- alongside 470% year-over-year revenue growth. However, this now marks six consecutive review cycles without any confirmed open-market insider purchase or new institutional 13F/13G filing to corroborate the catalyst flow with capital conviction. The persistent absence of insider buying, especially from a management team that has bought opportunistically in the past, is becoming a more significant concern the longer it continues.",
+      "risks": "The prolonged absence of insider buying and fresh institutional accumulation, despite genuinely positive news flow, raises the risk that this is a stalled setup rather than a quiet-accumulation story, and is a demotion candidate if the pattern continues. Palladyne AI remains unprofitable with a widening GAAP net loss and full-year operating cash burn guided at $32-36 million, and the stock has traded down roughly 12% over the past month even as catalysts accumulated.",
       "sources": [
         {
-          "title": "Palladyne AI Sets Sept. 9-10 Investor Conferences - StockTitan",
-          "url": "https://www.stocktitan.net/news/PDYN/palladyne-ai-to-participate-in-upcoming-investor-5ywvyi4j6eiu.html"
+          "title": "PDYN - Palladyne Ai Corp. - SEC Form 4 Insider Trading Screener",
+          "url": "http://openinsider.com/PDYN"
         },
         {
-          "title": "Palladyne AI CFO sells 4636 shares for taxes - PDYN Form 4",
-          "url": "https://www.stocktitan.net/sec-filings/PDYN/form-4-palladyne-ai-corp-insider-trading-activity-bcde17268f79.html"
-        },
-        {
-          "title": "Palladyne AI (PDYN) Insider Trading Activity 2026 - MarketBeat",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/PDYN/insider-trades/"
-        },
-        {
-          "title": "Palladyne AI (PDYN) Institutional Ownership 2026 - MarketBeat",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/PDYN/institutional-ownership/"
-        },
-        {
-          "title": "Palladyne AI Corp. (PDYN) Stock Price, News, Quote & History - Yahoo Finance",
-          "url": "https://finance.yahoo.com/quote/PDYN/"
+          "title": "Palladyne AI Corp. Stock - Institutional Ownership - Fintel",
+          "url": "https://fintel.io/so/us/pdyn"
         },
         {
           "title": "PALLADYNE AI (PDYN) Stock News & Updates - StockTitan",
           "url": "https://www.stocktitan.net/news/PDYN/"
+        },
+        {
+          "title": "Palladyne AI Corp. (PDYN) Stock Price, News, Quote & History - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/PDYN/"
         }
       ],
       "added_date": "2026-08-27",
       "last_updated": "2026-09-03"
     },
     {
-      "ticker": "AMLX",
-      "name": "Amylyx Pharmaceuticals, Inc.",
-      "sector": "Biotech",
-      "price": 33.75,
-      "change_1m_pct": 67.3,
-      "volume_trend": "Elevated versus average (roughly 114% of the 65-day average) following the mid-August Phase 3 Avexitide data and subsequent $500M equity raise, but the move is a sharp post-catalyst spike rather than steady accumulation",
-      "trend": "breaking_out",
+      "ticker": "UMAC",
+      "name": "Unusual Machines, Inc.",
+      "sector": "Defense Technology",
+      "price": 24.0,
+      "change_1m_pct": -6.7,
+      "volume_trend": "Below average volume on modest gains; no evidence of accumulation-driven volume expansion",
+      "trend": "pulling_back",
       "signals": {
-        "insider_buying": "No open-market cash purchases identified. The only insider Form 4 since the prior review was an August 31 option exercise by director Karen Firestone (50,000 shares at $1.76/$5.05 strike prices) -- an option exercise, not a cash buy, so it does not qualify as a fresh insider-conviction signal.",
-        "institutional_buying": "No new 13F/13G filings identified since the prior evening's review. Existing institutional base (BlackRock, Wellington, Nantahala, T. Rowe Price, Janus Henderson) remains intact from prior quarterly filings.",
+        "insider_buying": "None. No insider purchases have been filed since the CEO and director open-market buys in October 2024; recent insider activity consists solely of prior-year sales by the COO and CFO.",
+        "institutional_buying": "No new 13F/13G filings identified since the last review; Wasatch and other prior institutional holders' stakes remain unchanged based on available data.",
         "catalysts": [
-          "August 2026 Phase 3 LUCIDITY topline data supporting avexitide, which drove a sharp rally (Amylyx Pharmaceuticals investor materials, https://investors.amylyx.com/investor-relations/)",
-          "Concurrent ~$500M equity raise following the data readout (Simply Wall St, https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-amlx/amylyx-pharmaceuticals/news/amylyx-pharmaceuticals-amlx-is-down-101-after-strong-phase-3)",
-          "Q2 2026 earnings reported August 6 with a wider net loss despite the pipeline progress (Yahoo Finance, https://finance.yahoo.com/healthcare/articles/amylyx-pharmaceuticals-inc-amlx-q2-190128953.html)"
+          "New strategic partnership with Altana AI to strengthen supply-chain intelligence and NDAA-compliance verification, announced Sept 3, 2026",
+          "Continued benefit from the Trump administration's tariffs of up to 100% on foreign-made drones and components, supporting the domestic-sourcing narrative"
         ],
-        "analyst_moves": [
-          "Upgraded to Strong Buy following the LUCIDITY outcome (Seeking Alpha, https://seekingalpha.com/article/4937839-amylyx-upgraded-to-strong-buy-on-lucidity-outcome-avexitide-and-2026-catalysts)"
-        ]
+        "analyst_moves": []
       },
       "score": 6,
       "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "Amylyx has re-rated sharply on positive Phase 3 avexitide data, but the move is a binary-catalyst spike rather than the gradual, low-volatility breakout this screen favors, and the accompanying capital raise dilutes near-term insider-alignment signals. No open-market insider buying or fresh institutional accumulation has emerged since the data readout to corroborate the move at these levels.",
-      "risks": "The stock's parabolic one-month advance leaves it vulnerable to profit-taking and increases the odds of round-tripping if follow-on data or payer commentary disappoints. Post-raise share count dilution and the absence of insider skin-in-the-game at current prices are additional considerations.",
+      "thesis": "Unusual Machines added a new supply-chain intelligence partnership with Altana AI today, reinforcing its NDAA-compliance positioning within the broader counter-drone tariff tailwind, but the stock remains in a round-trip pattern from its 52-week high with no insider buying to corroborate continued institutional and analyst support from firms including Wasatch and Piper Sandler. The Altana partnership is incremental rather than transformative, and the setup still lacks the insider conviction signal this screen prioritizes most heavily.",
+      "risks": "The technical pattern remains a round-trip from the 52-week high rather than a clean base-and-breakout, and the total absence of insider buying over nearly two years is a persistent gap in the thesis. Valuation remains rich relative to current revenue, and the stock's reliance on tariff and defense-procurement policy tailwinds introduces headline risk if trade or defense-spending priorities shift.",
       "sources": [
         {
-          "title": "Amylyx Pharmaceuticals (AMLX) Is Down 10.1% After Strong Phase 3 Avexitide Data And $500M Equity Raise",
-          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-amlx/amylyx-pharmaceuticals/news/amylyx-pharmaceuticals-amlx-is-down-101-after-strong-phase-3"
+          "title": "UMAC - Unusual Machines Inc - SEC Form 4 Insider Trading Screener",
+          "url": "http://openinsider.com/UMAC"
         },
         {
-          "title": "Amylyx: Upgraded To Strong Buy On LUCIDITY Outcome, Avexitide And 2026 Catalysts",
-          "url": "https://seekingalpha.com/article/4937839-amylyx-upgraded-to-strong-buy-on-lucidity-outcome-avexitide-and-2026-catalysts"
+          "title": "Unusual Machines Partners With Altana on Supply Chain - StockTitan",
+          "url": "https://www.stocktitan.net/news/UMAC/unusual-machines-strengthens-supply-chain-intelligence-through-ty0ei3wul8mw.html"
         },
         {
-          "title": "Amylyx director exercises options for 50,000 shares",
-          "url": "https://www.stocktitan.net/sec-filings/AMLX/form-4-amylyx-pharmaceuticals-inc-insider-trading-activity-f597a12d6f4a.html"
+          "title": "Unusual Machines Inc. Stock Quote (U.S. - UMAC) - MarketWatch",
+          "url": "https://www.marketwatch.com/investing/stock/umac"
         },
         {
-          "title": "Amylyx Pharmaceuticals Inc. Stock Quote (MarketWatch)",
-          "url": "https://www.marketwatch.com/investing/stock/amlx"
+          "title": "Unusual Machines (UMAC) Institutional Ownership 2026 - MarketBeat",
+          "url": "https://www.marketbeat.com/stocks/NYSEAMERICAN/UMAC/institutional-ownership/"
         }
       ],
       "added_date": "2026-08-27",
@@ -429,35 +383,43 @@
       "ticker": "BHVN",
       "name": "Biohaven Ltd.",
       "sector": "Biotech",
-      "price": 15.46,
-      "change_1m_pct": 8.0,
-      "volume_trend": "Declining -- days-to-cover has risen roughly 12% over the recent period, consistent with thinner trading rather than rising accumulation volume",
-      "trend": "consolidating",
+      "price": 15.69,
+      "change_1m_pct": 8.8,
+      "volume_trend": "Volume picked up around the Aug 26 licensing deal announcement and has stayed constructive since, consistent with gradual accumulation rather than a single spike",
+      "trend": "climbing",
       "signals": {
-        "insider_buying": "No new open-market insider purchases identified since the prior evening's review. The most recent CEO Form 4 activity on file relates to RSU vesting and share withholding for taxes, not a cash purchase.",
-        "institutional_buying": "No new institutional 13F/13G filings identified since the prior evening's review; late-August filings (BlackRock addition, Bank of America trim) were already reflected in the prior assessment.",
+        "insider_buying": "No new open-market cash purchases by officers or directors identified since the morning review.",
+        "institutional_buying": "BlackRock disclosed a $196.57 million investment in Biohaven (filed Aug 28) and Renaissance Technologies acquired a new position (filed Aug 14); Manufacturers Life Insurance and Quantinno Capital Management also added positions in August. These are constructive but reflect the same institutional interest already known as of the morning review rather than a newly surfaced signal.",
         "catalysts": [
-          "August 26, 2026 SK Biopharmaceuticals licensing/collaboration deal -- already a known catalyst as of the prior evening's review, not new",
-          "August 27, 2026 Seeking Alpha reiteration of a Buy thesis tied to the Opakalim epilepsy licensing agreement, also predating this review window (Seeking Alpha, https://seekingalpha.com/article/4940971-biohaven-buy-reiterated-on-opakalim-license-agreement-for-epilepsy-and-more)"
+          "Aug 26, 2026: Biohaven and SK Biopharmaceuticals entered a strategic global licensing and collaboration agreement for Biohaven's Kv7 ion channel platform and lead candidate opakalim in epilepsy, a deal reported to be worth up to roughly $790 million in upfront and milestone payments",
+          "No new catalyst dated since the morning review was identified; the SK Biopharmaceuticals deal predates this morning's assessment and was already reflected in the prior score"
         ],
         "analyst_moves": []
       },
       "score": 6,
       "status": "CORE WATCH",
-      "thesis": "Biohaven's late-stage pipeline remains catalyst-rich into the second half of 2026, and the stock has held a firm base after its recent business-development news, but no genuinely new insider or institutional signal has emerged since the prior review to justify raising conviction further. The declining volume trend also tempers the technical picture relative to a textbook rising-volume breakout.",
-      "risks": "Multiple binary clinical readouts remain pending, and any disappointment across the late-stage pipeline could quickly reverse recent gains. The declining volume trend suggests the recent advance may lack durable participation.",
+      "thesis": "Biohaven's global licensing deal with SK Biopharmaceuticals for its epilepsy asset opakalim remains a credible, revenue-generating validation of its neuroscience pipeline, and institutional buying from BlackRock and Renaissance Technologies continues to build out a supportive ownership base. No new catalysts or insider activity have surfaced since the morning review, and the stock's steady mid-single-digit monthly gain reflects a gradual, orderly climb rather than a fresh breakout. The name holds at core watch pending either a fresh insider buy or additional catalyst confirmation.",
+      "risks": "Biohaven remains a multi-asset clinical-stage biotech with binary readouts still pending across its pipeline; the SK Biopharmaceuticals deal, while validating, shifts near-term economics for opakalim to a partner and reduces Biohaven's own upside capture. The lack of confirmed insider buying means management's own skin-in-the-game signal is currently absent from the thesis.",
       "sources": [
         {
-          "title": "BHVN Stock On Track For Best Day In Over 2 Months After SK Biopharm Deal",
-          "url": "https://finance.yahoo.com/healthcare/articles/bhvn-stock-track-best-day-170022700.html"
+          "title": "Biohaven and SK Biopharmaceuticals Enter into Strategic Global Licensing Agreement",
+          "url": "https://ir.biohaven.com/news-releases/news-release-details/biohaven-and-sk-biopharmaceuticals-enter-strategic-global/"
         },
         {
-          "title": "Biohaven: Buy Reiterated On Opakalim License Agreement For Epilepsy And More",
-          "url": "https://seekingalpha.com/article/4940971-biohaven-buy-reiterated-on-opakalim-license-agreement-for-epilepsy-and-more"
+          "title": "Biohaven (BHVN) Cashes In On Its Biggest Epilepsy Bet",
+          "url": "https://finance.yahoo.com/healthcare/articles/biohaven-bhvn-cashes-biggest-epilepsy-115939514.html"
         },
         {
-          "title": "Biohaven (BHVN) Stock Price, News & Analysis (StockTitan)",
-          "url": "https://www.stocktitan.net/overview/BHVN/"
+          "title": "BlackRock Inc. Invests $196.57 Million in Biohaven Ltd. $BHVN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-blackrock-inc-invests-19657-million-in-biohaven-ltd-bhvn-2026-08-28/"
+        },
+        {
+          "title": "Renaissance Technologies LLC Acquires New Position in Biohaven Ltd. $BHVN",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-acquires-new-position-in-biohaven-ltd-bhvn-2026-08-14/"
+        },
+        {
+          "title": "Biohaven Ltd. Stock Quote (U.S.: NYSE) - MarketWatch",
+          "url": "https://www.marketwatch.com/investing/stock/bhvn"
         }
       ],
       "added_date": "2026-08-27",
@@ -468,37 +430,45 @@
       "name": "Treace Medical Concepts, Inc.",
       "sector": "Medtech/Diagnostics",
       "price": 4.7,
-      "change_1m_pct": 8.0,
-      "volume_trend": "Declining rather than rising, with current volume running below the recent average despite the ongoing insider and institutional accumulation",
-      "trend": "consolidating",
+      "change_1m_pct": 9.1,
+      "volume_trend": "Volume has been steady and orderly through the CEO's recurring late-August purchases, consistent with gradual accumulation rather than a spike",
+      "trend": "climbing",
       "signals": {
-        "insider_buying": "No new open-market Form 4 purchases identified since CEO John Treace's late-August cluster of buys (most recently disclosed August 24, 2026); no fresh insider purchases have been filed since the prior evening's review.",
-        "institutional_buying": "No new institutional 13F/13G filings identified since the prior evening's review; existing accumulation from BofA, Renaissance Technologies, Two Sigma, and Jefferies (filed through late August) remains the most recent evidence.",
+        "insider_buying": "CEO John T. Treace continues an active, recurring open-market cash buying program: 39,944 shares at $4.44 on Aug 20, 5,000 shares at $4.35 on Aug 21, and 11,000 shares at $4.34 on a filing dated Aug 24 (transaction confirmed Aug 20). No newer Form 4 filings dated since Aug 24 were identified as of this evening, so this remains the same buying streak known as of the morning review rather than a fresh incremental purchase.",
+        "institutional_buying": "Bank of America disclosed a $4.31 million stock holding in a filing reported Aug 29; institutional investors collectively own roughly 84% of TMCI, with insiders having bought 158,261 shares over the past three months per aggregated insider-activity data.",
         "catalysts": [
-          "August 7, 2026 Q2 2026 earnings beat with narrowing cash burn (Treace Medical Concepts investor relations, https://investors.treace.com/news-releases/news-release-details/treace-medical-concepts-reports-second-quarter-2026-financial)"
+          "No new catalyst dated since the morning review was identified; the CEO's ongoing buying program remains the primary supportive signal"
         ],
         "analyst_moves": []
       },
       "score": 6,
       "status": "EARLY HIGH-PRIORITY WATCH",
-      "thesis": "Treace Medical Concepts continues to show CEO John Treace building a substantial multi-tranche open-market position alongside accumulating institutional interest from several well-known funds, underpinned by a Q2 earnings beat and improving cash burn. The price base remains immature and volume has been declining rather than rising, which keeps this as an early-stage rather than fully confirmed setup; no new insider or institutional signal has emerged since the prior review.",
-      "risks": "The declining volume trend during the recent advance raises questions about the durability of the current base, and the stock's small size and modest liquidity increase sensitivity to broader medtech sentiment shifts. Continued execution on cash-burn reduction is necessary to sustain the current re-rating.",
+      "thesis": "Treace Medical's CEO has built one of the more consistent open-market insider-buying track records in this group, adding shares across multiple separate purchases through May, June, and August at a range of prices, which signals sustained personal conviction rather than a one-off gesture. Institutional ownership remains high and stable, and the stock's steady mid-single-digit monthly climb fits the gradual-accumulation profile this screen targets. No new catalyst or incremental Form 4 activity has emerged since the morning review, so the name holds at its prior early high-priority tier pending further confirmation.",
+      "risks": "Treace remains a small-cap medtech name (~$300M market cap) with corresponding liquidity constraints and elevated volatility on modest news flow. The company's recurring insider buying, while a positive signal, has not yet been matched by a distinct new catalyst (contract win, FDA action, or upgrade) that would justify moving to a higher-conviction tier. Broader bunion/foot-and-ankle surgical volume trends and reimbursement dynamics remain a risk to the underlying growth thesis.",
       "sources": [
         {
-          "title": "Treace Medical (TMCI) CEO adds to stake with late-August open-market buys",
-          "url": "https://www.stocktitan.net/sec-filings/TMCI/form-4-treace-medical-concepts-inc-insider-trading-activity-ea4e6c65fb63.html"
+          "title": "Treace John T. bought TMCI: August 24, 2026",
+          "url": "https://www.insidertradingscreener.com/trades/517688"
         },
         {
-          "title": "522,900 Shares in Treace Medical Concepts, Inc. Purchased by Renaissance Technologies LLC",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-522900-shares-in-treace-medical-concepts-inc-tmci-purchased-by-renaissance-technologies-llc-2026-08-17/"
+          "title": "Treace John T. bought TMCI: August 21, 2026",
+          "url": "https://www.insidertradingscreener.com/trades/517687"
         },
         {
-          "title": "Treace Medical Concepts Reports Second Quarter 2026 Financial Results",
-          "url": "https://investors.treace.com/news-releases/news-release-details/treace-medical-concepts-reports-second-quarter-2026-financial"
+          "title": "Treace John T. bought TMCI: August 20, 2026",
+          "url": "https://www.insidertradingscreener.com/trades/517686"
         },
         {
-          "title": "Bank of America Corp DE Has $4.31 Million Stock Holdings in Treace Medical Concepts",
+          "title": "Treace Medical Concepts (NASDAQ:TMCI) CEO Acquires 11,000 Shares",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-treace-medical-concepts-nasdaq-tmci-ceo-acquires-11000-shares-2026-08-24/"
+        },
+        {
+          "title": "Bank of America Corp DE Has $4.31 Million Stock Holdings in Treace Medical Concepts Inc (TMCI)",
           "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-has-431-million-stock-holdings-in-treace-medical-concepts-inc-tmci-2026-08-29/"
+        },
+        {
+          "title": "TMCI Treace Medical Concepts, Inc. - Yahoo Finance",
+          "url": "https://finance.yahoo.com/quote/TMCI/"
         }
       ],
       "added_date": "2026-09-02",
@@ -508,39 +478,262 @@
       "ticker": "GH",
       "name": "Guardant Health, Inc.",
       "sector": "Medtech/Diagnostics",
-      "price": 161.64,
-      "change_1m_pct": 1.8,
-      "volume_trend": "Below average (roughly 42% of the 65-day average volume), suggesting the litigation overhang has quieted trading rather than attracting accumulation",
-      "trend": "consolidating",
+      "price": 160.86,
+      "change_1m_pct": -4.7,
+      "volume_trend": "Elevated volume around the Aug 24 judgment announcement, easing back toward normal levels but still choppy as securities-litigation and appeal headlines continue to circulate",
+      "trend": "pulling_back",
       "signals": {
-        "insider_buying": "No open-market cash purchases identified. Recent Form 4 activity consists of option exercises and a charitable stock gift by an insider, not open-market buying (StockTitan SEC filings, https://www.stocktitan.net/sec-filings/GH/form-4-guardant-health-inc-insider-trading-activity-bcdc424e781b.html).",
-        "institutional_buying": "Mixed and modest institutional activity continues (e.g., new small positions from SWS Partners and GSA Capital Partners in mid-August), but nothing new or material has been filed since the prior evening's review.",
+        "insider_buying": "None. Recent Form 4 filings show only routine RSU vesting (264 shares, Aug 24) and a charitable stock gift of 30,000 shares (Aug 27); no officer or director has made an open-market cash purchase.",
+        "institutional_buying": "Several small new institutional stakes were disclosed in mid-to-late August (SWS Partners, GSA Capital Partners ~$1.77M, Ninepoint Partners, Kinetic Partners ~$19.49M, Algert Global), but these are routine 13F position filings rather than a concentrated buying signal tied to a specific catalyst.",
         "catalysts": [
-          "August 24, 2026 final judgment in the TwinStrand Biosciences/University of Washington patent suit awarding more than $245.2 million in damages, royalties, and interest (BusinessWire, https://www.businesswire.com/news/home/20260824967581/en/TwinStrand-Biosciences-Announces-Final-Judgment-in-Patent-Infringement-Suit-Against-Guardant-Health-Awarding-TwinStrand-and-the-University-of-Washington-More-Than-$245.2-Million-in-Damages-Accrued-Royalties-and-Interest)",
-          "Guardant Health stated on August 24 that it intends to appeal the judgment to the Federal Circuit, but as of this review no formal notice of appeal has been filed with the court -- only a stated intent (Guardant Health investor relations, https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Appeal-Federal-District-Court-Judgment/default.aspx)"
+          "Aug 24, 2026: Guardant Health said it will appeal the U.S. District Court for Delaware's final judgment awarding TwinStrand Biosciences and the University of Washington more than $245.2 million in damages, interest, and accrued royalties in the long-running Duplex Sequencing patent case; as of Sept 3 evening, this remains a stated intent only -- no formal notice of appeal has been filed with the court, and Guardant Reveal and Shield products were excluded from the final order",
+          "Q2 2026 revenue growth continued (10-Q filed July 30), with the company noting no conversion notices yet received on its $600M 2031 convertible notes"
         ],
         "analyst_moves": []
       },
       "score": 5.5,
       "status": "MONITORING",
-      "thesis": "Guardant Health's core liquid-biopsy franchise remains intact, but the stock is digesting a large, unresolved legal liability rather than showing the accumulation pattern this screen targets. With no formal notice of appeal yet on file, no open-market insider buying, and light trading volume, there is insufficient fresh conviction signal to elevate this beyond a monitoring status. At roughly $22 billion in market cap, the name also sits outside the small/mid-cap focus of this screen.",
-      "risks": "The $245.2 million judgment creates a real balance-sheet and reputational overhang until a notice of appeal is formally filed and the appellate process plays out; an adverse outcome on scope of royalties could also affect ongoing product economics. Market-cap size and depressed volume reduce the immediate relevance of this idea to a small/mid-cap quiet-accumulation thesis.",
+      "thesis": "Guardant Health remains a well-established liquid diagnostics name with a durable growth franchise, but this screen's re-check found no new positive signal since the morning review. The company's TwinStrand patent judgment appeal remains only a stated legal intention as of this evening -- no notice of appeal has actually been filed with the court -- so the removal of that overhang is still unconfirmed. Insider activity continues to be limited to RSU vesting and a charitable gift rather than open-market cash buying, and institutional filings reflect routine quarterly position changes rather than a concentrated conviction signal. Absent confirmation of a filed appeal or a fresh insider buy, the stock stays in monitoring status.",
+      "risks": "The $245.2 million judgment, if the appeal is unsuccessful or delayed, represents a material cash liability relative to the company's balance sheet and could pressure the stock further. Continued litigation overhang may keep volatility elevated and deter fresh institutional buying until there is more legal clarity. The stock's larger market capitalization (~$22B) also sits outside the small/mid-cap sweet spot this screen otherwise favors.",
       "sources": [
         {
           "title": "Guardant Health to Appeal Federal District Court Judgment",
-          "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Appeal-Federal-District-Court-Judgment/default.aspx"
+          "url": "https://www.stocktitan.net/news/GH/guardant-health-to-appeal-federal-district-court-fsqf4fwmvziv.html"
         },
         {
           "title": "TwinStrand Biosciences Announces Final Judgment in Patent Infringement Suit Against Guardant Health",
-          "url": "https://www.businesswire.com/news/home/20260824967581/en/TwinStrand-Biosciences-Announces-Final-Judgment-in-Patent-Infringement-Suit-Against-Guardant-Health-Awarding-TwinStrand-and-the-University-of-Washington-More-Than-$245.2-Million-in-Damages-Accrued-Royalties-and-Interest"
+          "url": "https://finance.yahoo.com/healthcare/articles/twinstrand-biosciences-announces-final-judgment-110000950.html"
         },
         {
           "title": "Does Guardant Health's (GH) Patent Appeal Reshape Its Competitive Moat More Than Its Royalty Bill?",
           "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-gh/guardant-health/news/does-guardant-healths-gh-patent-appeal-reshape-its-competiti"
         },
         {
-          "title": "Guardant Health Inc. Stock Quote (MarketWatch)",
+          "title": "Guardant Health insider gifts 30K shares to charity",
+          "url": "https://www.stocktitan.net/sec-filings/GH/form-4-guardant-health-inc-insider-trading-activity-bcdc424e781b.html"
+        },
+        {
+          "title": "Guardant Health (GH) Institutional Ownership 2026",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/GH/institutional-ownership/"
+        },
+        {
+          "title": "Guardant Health Inc. Stock Quote (U.S.: Nasdaq) - MarketWatch",
           "url": "https://www.marketwatch.com/investing/stock/gh"
+        }
+      ],
+      "added_date": "2026-08-27",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "FLY",
+      "name": "Firefly Aerospace Inc.",
+      "sector": "Space Infrastructure",
+      "price": 21.06,
+      "change_1m_pct": -3.8,
+      "volume_trend": "Volume has continued to drift lower through this week (down to ~1.8-2.1M shares) from the Aug 4-12 range of 3-6M shares, the opposite of the rising-volume pattern the screen looks for.",
+      "trend": "pulling_back",
+      "signals": {
+        "insider_buying": "No open-market cash purchases. The only insider activity in the past two months is a routine restricted-stock award to an executive (Aug 4) and two J-OTHER transactions (Aug 14) that are not open-market cash buys -- insider cash buying remains at zero.",
+        "institutional_buying": "302 institutional holders on file; AE Industrial Partners remains the dominant holder with a slight trim (-2.0% QoQ), while BlackRock (+189.7% QoQ) and State Street (+751.4% QoQ) both sharply increased their positions -- a genuine institutional accumulation signal from last quarter's 13F cycle, though not a new filing since this morning.",
+        "catalysts": [
+          "Record Q2 2026 revenue of $117.7 million, topping $100 million for the first time in company history, with backlog rising to roughly $1.5 billion.",
+          "Company reaffirmed full-year 2026 revenue guidance of $420-450 million, with 95% already booked at the midpoint.",
+          "Onboarded to a NASA Spacecraft Processing Operations Contract, announced Aug 17.",
+          "Lockheed Martin contract extension and Space Force awards remain part of the company's recent contract flow from prior weeks."
+        ],
+        "analyst_moves": []
+      },
+      "score": 4.5,
+      "status": "MONITORING",
+      "thesis": "Firefly Aerospace continues to post standout fundamentals, including record quarterly revenue, a $1.5 billion backlog, and reaffirmed guidance backed almost entirely by signed bookings, alongside genuine institutional accumulation from BlackRock and State Street. But the complete absence of open-market insider cash buying, combined with declining volume as the stock drifts lower from its August levels, keeps this in monitoring territory. No genuinely new insider, institutional, or catalyst development has emerged since this morning's screen.",
+      "risks": "Zero insider cash buying despite an active contract and earnings catalyst flow is a persistent gap versus the screen's core thesis. Volume has been declining rather than rising, indicating fading rather than building participation. The stock remains down significantly from its highs, and continued net losses alongside a heavy production ramp add execution risk.",
+      "sources": [
+        {
+          "title": "Firefly Aerospace Onboarded to NASA Spacecraft Processing Operations Contract",
+          "url": "https://fireflyspace.com/news/firefly-aerospace-onboarded-to-nasa-spacecraft-processing-operations-contract/"
+        },
+        {
+          "title": "Firefly Aerospace Q2 Earnings Call Focuses on Backlog and Alpha Ramp",
+          "url": "https://www.zacks.com/stock/news/2973799/firefly-aerospace-q2-earnings-call-focuses-on-backlog-and-alpha-ramp"
+        },
+        {
+          "title": "Firefly Q2 2026 slides: record revenue tops $100M, backlog hits $1.5B",
+          "url": "https://www.investing.com/news/company-news/firefly-q2-2026-slides-record-revenue-tops-100m-backlog-hits-15b-93CH-4852952"
+        },
+        {
+          "title": "Firefly Aerospace (FLY) Stock Chart and Price History 2026",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/FLY/chart/"
+        },
+        {
+          "title": "Firefly Aerospace Inc. (FLY) Stock Price, News, Quote & History",
+          "url": "https://finance.yahoo.com/quote/FLY/"
+        }
+      ],
+      "added_date": "2026-08-27",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "sector": "Space Infrastructure",
+      "price": 62.13,
+      "change_1m_pct": -2.2,
+      "volume_trend": "Volume spiked to ~19.8M shares on Sept 2 (vs. ~16.7M average) on the insider-buy and analyst-initiation news, then normalized; not a sustained rising-volume trend.",
+      "trend": "pulling_back",
+      "signals": {
+        "insider_buying": "Director Adriana Cisneros made three genuine open-market cash purchases totaling 10,822 shares (~$619,235) on Aug 31, filed Sept 1 -- a real signal, but it predates this morning's screen and is not a new development in this intraday window. No other insiders have bought; CFO Andrew Johnson sold $4.3M in June and net insider selling remains heavily negative over the trailing 24 months (~$469M sold vs. ~$936K bought).",
+        "institutional_buying": "852 institutional holders on file; Vanguard added to its position (+20.7% QoQ) and BlackRock added modestly (+5.2% QoQ), while Rakuten Group cut its stake roughly in half (-50% QoQ). No new 13F/13G activity has surfaced since this morning.",
+        "catalysts": [
+          "Berenberg initiated coverage with a Buy rating and $92 price target on Sept 2-3, part of a broader bullish space-sector call.",
+          "Company confirmed its 45-satellite BlueBird deployment target has slipped from late 2026 to early 2027, a negative catalyst reported the morning of Sept 3.",
+          "A securities-law investigation alert (Kessler Topaz Meltzer & Check) was announced Sept 3 at 9:00am ET, adding litigation overhang.",
+          "BlueBird satellites 12 and 13 reached full deployment and a new satellite gateway opened in New Zealand in early September."
+        ],
+        "analyst_moves": [
+          "Berenberg: initiated Buy, $92 price target (Sept 2-3).",
+          "Consensus remains a Hold with an average price target near $86, reflecting mixed sentiment after the Q2 miss and launch delay."
+        ]
+      },
+      "score": 4,
+      "status": "MONITORING",
+      "thesis": "AST SpaceMobile has real technology and partnership momentum in direct-to-device satellite broadband, and a director's genuine open-market cash purchase after the stock's pullback is a modest positive tell. But at roughly $25B market cap the name sits far outside the fund's small/mid-cap mandate, institutional flows are mixed rather than a clean accumulation pattern, and the newly disclosed launch-timeline delay and securities-investigation alert are fresh headwinds. No material new insider, institutional, or catalyst information has emerged since this morning's screen.",
+      "risks": "Market cap far exceeds the ~$10B target ceiling, diluting the case for inclusion regardless of technical setup. A newly disclosed securities-law investigation adds legal overhang, and the commercial deployment timeline has slipped again from late 2026 to early 2027. Elevated cash burn and dilution risk remain, and net insider selling still dwarfs the recent director purchase on a trailing basis.",
+      "sources": [
+        {
+          "title": "AST SpaceMobile director buys 10,822 shares | ASTS Insider Trading",
+          "url": "https://www.stocktitan.net/sec-filings/ASTS/form-4-ast-space-mobile-inc-insider-trading-activity-fbb37b9f1cff.html"
+        },
+        {
+          "title": "Insider Buying: AST SpaceMobile (NASDAQ:ASTS) Director Buys $619,234.84 in Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-insider-buying-ast-spacemobile-nasdaq-asts-director-buys-61923484-in-stock-2026-09-01/"
+        },
+        {
+          "title": "AST SpaceMobile (ASTS) Draws Insider Interest, Is The Stock a Buy?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-hits-one-month-020006752.html"
+        },
+        {
+          "title": "AST Spacemobile Just Moved Its Commercial Launch Target to 2027. Is That Bad News for Its Stock?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-094800599.html"
+        },
+        {
+          "title": "ASTS News Today | Why did AST SpaceMobile stock go up today?",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/ASTS/news/"
+        },
+        {
+          "title": "ASTS, RKLB, PL Stocks In Focus As Berenberg Sees $1 Trillion Space Economy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-pl-stocks-focus-105740862.html"
+        },
+        {
+          "title": "AST SpaceMobile Inc. (ASTS) - Insider Trading Form 4 Filings",
+          "url": "https://www.secform4.com/insider-trading/1780312.htm"
+        }
+      ],
+      "added_date": "2026-08-27",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "RKLB",
+      "name": "Rocket Lab USA, Inc.",
+      "sector": "Space Infrastructure",
+      "price": 63.81,
+      "change_1m_pct": -9.4,
+      "volume_trend": "Volume has stayed in a steady ~15-19M share range through this week with no distinct rising trend; today's ~18.6M shares is in line with the recent average.",
+      "trend": "consolidating",
+      "signals": {
+        "insider_buying": "No open-market cash purchases by officers or directors. Founder/CEO Peter Beck sold roughly $56.6M in stock across multiple transactions in early July, and CFO Adam Spice and another insider each reported gift/estate transfers in August with no reported cash buying -- net insider selling continues.",
+        "institutional_buying": "1,188 institutional holders on file; BlackRock (+6.8% QoQ) and Vanguard's two entities (+5.4% and +4.2% QoQ) modestly added to positions. Several small wealth managers reported new positions in routine 13F updates this week, but nothing rises to a material new accumulation signal beyond what was known this morning.",
+        "catalysts": [
+          "Rocket Lab successfully launched its 94th Electron mission on Sept 2, deploying an Earth-imaging satellite.",
+          "Q2 2026 revenue hit a record $234 million, up 62% year over year, with $437 million in new bookings, reported in early August.",
+          "Blue Origin was awarded NASA's $700 million Mars communications contract on Sept 3 morning, beating out Rocket Lab -- a negative catalyst for the company's deep-space ambitions.",
+          "Berenberg initiated coverage with a Buy rating and $83 price target on Sept 2-3 as part of its broader space-sector call."
+        ],
+        "analyst_moves": [
+          "Berenberg: initiated Buy, $83 price target (Sept 2-3).",
+          "A separate analyst downgrade was reported early Sept 3, contributing to intraday softness despite the Berenberg initiation."
+        ]
+      },
+      "score": 4,
+      "status": "MONITORING",
+      "thesis": "Rocket Lab continues to execute operationally, with a successful Electron launch and record quarterly revenue, but the stock remains disqualified from a high-conviction read by persistent net insider selling and a market cap near $37B that sits well outside the fund's small/mid-cap mandate. Losing the NASA Mars contract to Blue Origin this morning is a minor negative data point. No genuinely new insider, institutional, or catalyst development has emerged since this morning's screen.",
+      "risks": "Market cap of roughly $37B is nearly four times the fund's ~$10B ceiling. CEO Peter Beck's large July stock sales remain the dominant insider signal, working against any accumulation thesis. Losing the $700M NASA Mars contract to Blue Origin underscores intensifying competition for high-value government awards.",
+      "sources": [
+        {
+          "title": "MISSION SUCCESS: Rocket Lab Launches 94th Electron Mission",
+          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-94th-electron-mission"
+        },
+        {
+          "title": "Rocket Lab Stock Flashes Major Warning Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-flashes-major-202645715.html"
+        },
+        {
+          "title": "RKLB News Today | Why did Rocket Lab stock go up today?",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/RKLB/news/"
+        },
+        {
+          "title": "Rocket Lab Q2 2026 earnings: revenue up 62%, loss widens",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-q2-2026-earnings-120315664.html"
+        },
+        {
+          "title": "ASTS, RKLB, PL Stocks In Focus As Berenberg Sees $1 Trillion Space Economy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-pl-stocks-focus-105740862.html"
+        },
+        {
+          "title": "SpaceX Rises 7% as Starship Test 14 Approaches, Tesla Jumps 7%, Rocket Lab Ticks Up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-7-starship-test-170342048.html"
+        }
+      ],
+      "added_date": "2026-08-27",
+      "last_updated": "2026-09-03"
+    },
+    {
+      "ticker": "AMLX",
+      "name": "Amylyx Pharmaceuticals, Inc.",
+      "sector": "Biotech",
+      "price": 34.49,
+      "change_1m_pct": 69.8,
+      "volume_trend": "Volume spiked sharply on Aug 18 (the LUCIDITY data day) and has stayed well above the pre-catalyst baseline since, but the pattern is a single violent gap-and-hold rather than a steadily rising accumulation curve",
+      "trend": "breaking_out",
+      "signals": {
+        "insider_buying": "None qualifying. The only Form 4 activity since the readout has been equity-compensation related: director Karen Firestone exercised options for 50,000 shares on Aug 31 (filed Sept 2), and the Chief Medical Officer and Chief Legal Officer received RSU/performance-share grants on Aug 21. No officer or director has made an open-market cash purchase around this move.",
+        "institutional_buying": "Alyeska Investment Group disclosed a new 1,053,015-share (~$18.9M, 0.95%) stake in a Q2 13F filing reported Sept 1, and Millennium Management lifted its stake 418.6% in Q1; both are backward-looking quarterly filings rather than fresh post-catalyst buying, and institutional ownership already sits near 96%, limiting further float absorption.",
+        "catalysts": [
+          "Aug 18, 2026: positive topline Phase 3 LUCIDITY results for avexitide in post-bariatric hypoglycemia, meeting the primary endpoint with a 55% reduction in Level 2/3 hypoglycemic events versus placebo and clearing all secondary endpoints",
+          "Company upsized and priced a $500M equity offering (from an initially announced $350M) to fund pre-commercial and manufacturing scale-up ahead of a planned late-2026 NDA submission",
+          "Multiple sell-side price-target hikes followed the data: Guggenheim to $55, H.C. Wainwright to $55, Robert W. Baird to $52, Stifel to $45, and a Wolfe Research upgrade to Strong Buy"
+        ],
+        "analyst_moves": [
+          "Guggenheim raised price target to $55",
+          "H.C. Wainwright raised price target to $55",
+          "Robert W. Baird raised price target to $52",
+          "Stifel raised price target to $45",
+          "Wolfe Research upgraded to Strong Buy"
+        ]
+      },
+      "score": 4,
+      "status": "MONITORING",
+      "thesis": "Amylyx delivered a genuinely strong clinical and regulatory catalyst in the Aug 18 LUCIDITY Phase 3 readout for avexitide, and sell-side sentiment has turned decisively bullish with a cluster of price-target increases. However, the stock's ~140% three-month run and a 63% single-day spike on the data are the opposite of the gradual, low-volatility base-building pattern this screen targets, and the recent $500M capital raise adds near-term dilution. No officer or director has bought stock in the open market since the move; the only insider activity has been option exercises and compensation grants, and institutional data reflects routine quarterly 13F disclosures rather than fresh conviction buying. The setup is a legitimate binary-catalyst success story but does not fit the quiet-accumulation profile this dashboard screens for.",
+      "risks": "The stock has already priced in a large share of the avexitide opportunity, leaving it vulnerable to a sharp pullback on any regulatory delay, manufacturing issue, or disappointing NDA interaction with the FDA. The newly upsized $500M offering dilutes existing shareholders. With no insider open-market buying to confirm management's own conviction at these levels, downside risk from profit-taking after such a large move is elevated.",
+      "sources": [
+        {
+          "title": "Amylyx Pharmaceuticals (AMLX) +66% Climb on Avexitide Trial Success",
+          "url": "https://tickeron.com/blogs/amylyx-pharmaceuticals-amlx-66-climb-on-avexitide-trial-success-16229/"
+        },
+        {
+          "title": "Amylyx Pharmaceuticals (AMLX) Is Up 48.6% After Positive Phase 3 Avexitide Data And $350M Equity Raise",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-amlx/amylyx-pharmaceuticals/news/amylyx-pharmaceuticals-amlx-is-up-486-after-positive-phase-3"
+        },
+        {
+          "title": "Amylyx director exercises options for 50000 shares",
+          "url": "https://www.stocktitan.net/sec-filings/AMLX/form-4-amylyx-pharmaceuticals-inc-insider-trading-activity-f597a12d6f4a.html"
+        },
+        {
+          "title": "1,053,015 Shares in Amylyx Pharmaceuticals, Inc. $AMLX Purchased by Alyeska Investment Group L.P.",
+          "url": "https://www.marketbeat.com/instant-alerts/filing-1053015-shares-in-amylyx-pharmaceuticals-inc-amlx-purchased-by-alyeska-investment-group-lp-2026-09-01/"
+        },
+        {
+          "title": "Amylyx Pharmaceuticals, Inc. (AMLX) Stock Price, News, Quote & History",
+          "url": "https://finance.yahoo.com/quote/AMLX/"
         }
       ],
       "added_date": "2026-08-27",
@@ -551,153 +744,42 @@
       "name": "Tempus AI, Inc.",
       "sector": "AI Infrastructure/Healthcare AI",
       "price": 61.94,
-      "change_1m_pct": 34.5,
-      "volume_trend": "Near average (roughly 86% of average volume), with no clear rising-volume accumulation pattern",
+      "change_1m_pct": 41.9,
+      "volume_trend": "Volume surged on the Aug 19 Moderna/Merck-driven rally and has stayed elevated since, consistent with a momentum-driven move rather than quiet accumulation",
       "trend": "climbing",
       "signals": {
-        "insider_buying": "No open-market insider buying identified. Insider selling continues, including a director's August 28 sale of 3,000 shares at $69 under a pre-established Rule 10b5-1 plan (StockTitan SEC filings, https://www.stocktitan.net/sec-filings/TEM/form-4-tempus-ai-inc-insider-trading-activity-9002ab7ffd6e.html).",
-        "institutional_buying": "No new institutional 13F/13G filings identified since the prior evening's review.",
+        "insider_buying": "None. Insider activity remains net-negative: director Nadja West sold 3,000 shares (disclosed Sept 1) and the CEO sold approximately 11,800 shares around $70 (filed Aug 28), continuing the pattern of scheduled 10b5-1 sales flagged in the prior review. No open-market purchases by officers or directors have surfaced.",
+        "institutional_buying": "Avidity Partners Management and Monetta Financial Services disclosed new stakes in early-to-mid August, and BlackRock's reported ownership increased, but these reflect routine 13F disclosures rather than a fresh, catalyst-linked buying wave since the morning review.",
         "catalysts": [
-          "Q2 2026 results reported July 30, 2026 showing continued revenue growth in the AI-enabled diagnostics business (BusinessWire, https://www.businesswire.com/news/home/20260730328545/en/Tempus-Reports-Second-Quarter-2026-Results)"
+          "Aug 19, 2026: Moderna and Merck reported Phase 3 success for their melanoma cancer vaccine (INTerpath-001) meeting its recurrence-free survival endpoint, which investors read as validating Tempus's $1.5 billion all-stock acquisition of Personalis for molecular residual disease (MRD) technology; shares jumped roughly 24% that day",
+          "No newer, previously-unreported catalyst was identified since the morning review; the Moderna/Merck-linked rally and Personalis deal both predate this morning's assessment"
         ],
-        "analyst_moves": [
-          "September 1, 2026 Piper Sandler upgrade -- already known as of the prior evening's review and not a new signal"
-        ]
+        "analyst_moves": []
       },
-      "score": 5,
+      "score": 3,
       "status": "MONITORING",
-      "thesis": "Tempus AI continues to see persistent insider selling, including a fresh late-August 10b5-1 sale, which runs counter to the insider-alignment signal this screen prioritizes. The stock has run up meaningfully over the past month, but without corroborating fresh institutional buying or new catalysts since the prior review, and with a market cap near the upper edge of the small/mid-cap focus, the name remains in a monitoring posture.",
-      "risks": "Sustained insider selling, even under 10b5-1 plans, can weigh on sentiment and signals limited fresh insider conviction at current valuations. The stock's rapid appreciation increases multiple-compression risk if AI-diagnostics growth decelerates or margins disappoint.",
+      "thesis": "Tempus AI continues to benefit from strong secondary validation of its Personalis acquisition following Moderna and Merck's melanoma vaccine trial success, and the stock has rallied sharply as a result. However, this remains the same continued-insider-selling picture flagged in the prior review: executives and directors have kept selling under scheduled 10b5-1 plans, with no open-market buying to confirm insider conviction at these levels. The stock's ~42% one-month gain is a momentum spike layered on top of an already-known catalyst rather than a fresh, gradual accumulation signal, keeping it in monitoring status.",
+      "risks": "Continued insider selling, even under 10b5-1 plans, removes a positive signal this screen looks for and can weigh on sentiment if the pace increases. The stock's rally is tied to a read-through from a competitor's trial data rather than Tempus's own binary catalyst, which is an indirect and potentially fragile support for the current valuation. Integration risk from the pending $1.5B Personalis acquisition remains unresolved.",
       "sources": [
         {
-          "title": "Tempus AI director sells 3K shares at $69",
-          "url": "https://www.stocktitan.net/sec-filings/TEM/form-4-tempus-ai-inc-insider-trading-activity-9002ab7ffd6e.html"
+          "title": "Tempus AI (TEM) Jumped on Moderna's Melanoma Win. Did its $1.5B Personalis Acquisition Just Get Validated?",
+          "url": "https://finance.yahoo.com/healthcare/articles/tempus-ai-tem-jumped-moderna-220104362.html"
         },
         {
-          "title": "Tempus Reports Second Quarter 2026 Results",
-          "url": "https://www.businesswire.com/news/home/20260730328545/en/Tempus-Reports-Second-Quarter-2026-Results"
+          "title": "Moderna's Cancer Breakthrough Just Made Tempus AI's $1.5 Billion Bet Look Brilliant",
+          "url": "https://finance.yahoo.com/healthcare/articles/moderna-cancer-breakthrough-just-made-184454852.html"
         },
         {
-          "title": "Tempus AI, Inc. Stock Quote (MarketWatch)",
+          "title": "Nadja West Sells 3,000 Shares of Tempus AI (NASDAQ:TEM) Stock",
+          "url": "https://www.marketbeat.com/instant-alerts/insider-nadja-west-sells-3000-shares-of-tempus-ai-nasdaq-tem-stock-2026-09-01/"
+        },
+        {
+          "title": "Tempus AI CEO sells 11.8K shares around $70",
+          "url": "https://www.stocktitan.net/sec-filings/TEM/form-4-tempus-ai-inc-insider-trading-activity-36e05abc816c.html"
+        },
+        {
+          "title": "TEM Stock Price | Tempus AI Inc. Stock Quote (U.S.: Nasdaq)",
           "url": "https://www.marketwatch.com/investing/stock/tem"
-        }
-      ],
-      "added_date": "2026-08-27",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "FLY",
-      "name": "Firefly Aerospace Inc.",
-      "sector": "Space Infrastructure",
-      "price": 21.07,
-      "change_1m_pct": 0.05,
-      "volume_trend": "declining -- weekly average hourly volume has fallen from ~335K shares in early August to ~217K shares now",
-      "trend": "consolidating",
-      "signals": {
-        "insider_buying": "Zero open-market cash purchases by officers or directors. The only Form 4 activity in the past two months is a routine equity award to an executive (Aug 4) and administrative share-related filings for an insider (Aug 14), none of which represent cash buying.",
-        "institutional_buying": "No new 13F/13G filings dated within this window. AE Industrial Partners remains the dominant holder; BlackRock and State Street's positions reflect prior-quarter growth, not new disclosures.",
-        "catalysts": [
-          "No genuinely new contract or catalyst news dated within this window; the Lockheed Martin multi-launch extension through 2031 (Aug 11), NASA Incus mission award, and Space Force contract flow all predate this screening period and remain unchanged (https://fireflyspace.com/news/firefly-aerospace-announces-extension-of-multi-launch-agreement-with-lockheed-martin-through-2031/)"
-        ],
-        "analyst_moves": []
-      },
-      "score": 4.5,
-      "status": "MONITORING",
-      "thesis": "Firefly Aerospace continues to show a strong catalyst pipeline -- the Lockheed Martin launch extension through 2031, NASA contract wins, and Space Force work all point to a growing backlog (reported at $1.5 billion as of its Q2 2026 call) -- and its roughly $3.5 billion market cap fits the small/mid-cap mandate well. The screen remains capped at MONITORING because insider cash buying stays at zero and no new institutional accumulation signal has surfaced, leaving the setup driven entirely by known catalysts rather than fresh conviction buying.",
-      "risks": "The complete absence of open-market insider buying is a persistent gap versus the strategy's core thesis. Trading volume has been steadily declining over the past month, and the launch business remains inherently lumpy and execution-dependent, with any Alpha rocket anomaly capable of disrupting the backlog-driven growth narrative.",
-      "sources": [
-        {
-          "title": "Firefly Aerospace Announces Extension of Multi-Launch Agreement with Lockheed Martin Through 2031",
-          "url": "https://fireflyspace.com/news/firefly-aerospace-announces-extension-of-multi-launch-agreement-with-lockheed-martin-through-2031/"
-        },
-        {
-          "title": "Firefly outlines $420M-$450M 2026 revenue outlook as backlog reaches $1.5B",
-          "url": "https://seekingalpha.com/news/4631242-firefly-outlines-420m-450m-2026-revenue-outlook-as-backlog-reaches-1_5b"
-        },
-        {
-          "title": "Firefly Aerospace Q2 Earnings Call Focuses on Backlog and Alpha Ramp",
-          "url": "https://www.zacks.com/stock/news/2973799/firefly-aerospace-q2-earnings-call-focuses-on-backlog-and-alpha-ramp"
-        }
-      ],
-      "added_date": "2026-08-27",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "ASTS",
-      "name": "AST SpaceMobile, Inc.",
-      "sector": "Space Infrastructure",
-      "price": 62.4,
-      "change_1m_pct": -0.46,
-      "volume_trend": "elevated on the Sept 2 analyst-driven pop, otherwise range-bound around 1M-1.3M shares/hour",
-      "trend": "consolidating",
-      "signals": {
-        "insider_buying": "A director, Adriana Cisneros, made three open-market cash purchases totaling roughly $619K on Aug 31, 2026 (filed Sept 1) at prices of $57.00-$58.87 per share. This filing predates the current screening window (since ~6pm ET Sept 2) and was already reflected in the prior screen, so it is not a new signal this cycle. No new Form 4 filings have appeared since then.",
-        "institutional_buying": "No new 13F/13G filings since the last screen. Existing large holders (Rakuten Group, BlackRock, Vanguard) show no fresh incremental disclosures dated within this window.",
-        "catalysts": [
-          "Berenberg initiated coverage with a Buy rating and $92 price target on Sept 2, 2026, driving an 11-13% intraday pop \u2014 already reflected in the prior evening's score, not a new development this cycle (https://www.investing.com/news/analyst-ratings/berenberg-initiates-ast-spacemobile-stock-with-buy-rating-on-tech-lead-93CH-4885464)",
-          "A Sept 3 retrospective article notes AST SpaceMobile has pushed its target of 45 satellites in orbit from end-2026 to early 2027, a previously announced timeline shift being re-covered rather than new news (https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-launch-094800599.html)"
-        ],
-        "analyst_moves": [
-          "Berenberg Buy initiation, $92 price target, announced Sept 2, 2026 (https://www.investing.com/news/analyst-ratings/berenberg-initiates-ast-spacemobile-stock-with-buy-rating-on-tech-lead-93CH-4885464)"
-        ]
-      },
-      "score": 4,
-      "status": "MONITORING",
-      "thesis": "AST SpaceMobile continues to attract bullish analyst attention, with Berenberg's fresh Buy initiation and $92 price target still supporting the stock near $62. However, this is a sell-side re-rating, not a new insider or institutional accumulation signal, and the one open-market director purchase on record predates this screening window. At roughly $25.4 billion in market capitalization, the name sits far outside the strategy's small/mid-cap mandate, and no new catalysts, Form 4 filings, or 13F/13G disclosures have emerged since the prior evening's review.",
-      "risks": "Market cap of approximately $25.4 billion is more than double the strategy's ~$10 billion ceiling, making this a poor size fit regardless of momentum. The commercial service timeline has already slipped from end-2026 to early 2027, and the stock remains highly volatile and sentiment-driven around launch and spectrum news, with execution risk on its BlueBird satellite constellation buildout.",
-      "sources": [
-        {
-          "title": "Berenberg initiates AST SpaceMobile stock with buy rating on tech lead",
-          "url": "https://www.investing.com/news/analyst-ratings/berenberg-initiates-ast-spacemobile-stock-with-buy-rating-on-tech-lead-93CH-4885464"
-        },
-        {
-          "title": "AST SpaceMobile Soars 12% on Berenberg's $92 Price Target",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-soars-12-berenberg-142015264.html"
-        },
-        {
-          "title": "AST Spacemobile Just Moved Its Commercial Launch Target to 2027",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-launch-094800599.html"
-        },
-        {
-          "title": "AST SpaceMobile Form 4 insider trading activity",
-          "url": "https://www.stocktitan.net/sec-filings/ASTS/form-4-ast-space-mobile-inc-insider-trading-activity-fbb37b9f1cff.html"
-        }
-      ],
-      "added_date": "2026-08-27",
-      "last_updated": "2026-09-03"
-    },
-    {
-      "ticker": "RKLB",
-      "name": "Rocket Lab USA, Inc.",
-      "sector": "Space Infrastructure",
-      "price": 63.1,
-      "change_1m_pct": -7.34,
-      "volume_trend": "declining over the past month, with weekly average hourly volume down from ~2.4M shares (mid-August) to ~1.6M shares now",
-      "trend": "consolidating",
-      "signals": {
-        "insider_buying": "No open-market cash buying by officers or directors. The only recent Form 4 activity includes a routine gift transfer by CFO Adam Spice's family trust (Aug 17) and a gift by Merline Saintil (Aug 31), plus continued insider selling by CEO Peter Beck (multiple sales in early July totaling over $56M) and director Frank Klein ($1.01M sale on Aug 27). Net insider activity remains sale-dominated.",
-        "institutional_buying": "A new 13F filing from Empowered Funds LLC disclosed a new ~$4.6 million Rocket Lab position (45,133 shares), reported Sept 1, 2026 -- a Q2-period filing that predates this screening window and is too small to be a material signal (https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-purchases-new-holdings-in-rocket-lab-corporation-rklb-2026-09-01/)",
-        "catalysts": [
-          "Rocket Lab successfully launched its 94th Electron mission for Synspective on Sept 2-3, 2026, a routine and already-expected launch rather than a new strategic catalyst (https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-94th-electron-mission)"
-        ],
-        "analyst_moves": []
-      },
-      "score": 4,
-      "status": "MONITORING",
-      "thesis": "Rocket Lab remains an operationally strong company -- its 94th Electron launch on Sept 2-3 extended its perfect mission-success streak for Synspective -- but the stock offers no qualifying insider or institutional accumulation signal. Insider activity continues to be dominated by CEO and director sales rather than open-market cash buying, and at roughly $36.5 billion market capitalization the name is far too large for the strategy's small/mid-cap mandate. Trading volume has also cooled from mid-August levels, consistent with a consolidating rather than breaking-out setup.",
-      "risks": "Market cap of approximately $36.5 billion places Rocket Lab well outside the ~$10 billion mandate ceiling. Continued net insider selling, including large CEO share sales in July, works against the accumulation thesis. Neutron rocket development and medium-lift program execution remain key swing factors for the stock's next major re-rating.",
-      "sources": [
-        {
-          "title": "MISSION SUCCESS: Rocket Lab Launches 94th Electron Mission",
-          "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-94th-electron-mission"
-        },
-        {
-          "title": "Empowered Funds LLC Purchases New Holdings in Rocket Lab Corporation $RKLB",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-purchases-new-holdings-in-rocket-lab-corporation-rklb-2026-09-01/"
-        },
-        {
-          "title": "Rocket Lab Corporation SEC Filings",
-          "url": "https://investors.rocketlabcorp.com/financial-information/sec-filings"
         }
       ],
       "added_date": "2026-08-27",
@@ -708,29 +790,26 @@
       "name": "Oklo Inc.",
       "sector": "Nuclear Energy",
       "price": 39.52,
-      "change_1m_pct": -14.8,
-      "volume_trend": "Volume running below its recent average (roughly 5.7M shares on Sept 2 vs. an 11.3M average) as the stock digests the pending PJM interconnection dispute with no fresh catalyst to drive a volume spike.",
-      "trend": "pulling_back",
+      "change_1m_pct": -12.4,
+      "volume_trend": "Elevated and choppy around the PJM/FERC dispute headlines, not a steady accumulation pattern",
+      "trend": "consolidating",
       "signals": {
-        "insider_buying": "None. All recent Form 4 activity remains RSU-vesting or option-exercise related rather than open-market cash purchases -- most recently Chief Product Officer Alexandra Renner's Aug 31 filing showing 4,173 RSUs distributed at $0.00 cost as part of a June 2026 grant vesting on schedule, not a cash buy. No officer or director has purchased shares on the open market.",
-        "institutional_buying": "No genuinely new institutional filing has surfaced since the prior review. BNY Mellon's new ~$24.5M stake (disclosed Aug 31) and State Street's Q2 increase remain the most recent dated signals, but both reflect the Q2 reporting cycle rather than a fresh post-dispute accumulation wave.",
+        "insider_buying": "None. CEO Jacob Dewitte and COO Caroline Cochran continued their recurring large-block open-market sales (120,000 shares each at $38.59 on Sept 1, 2026, filed Sept 2), extending a long-running monthly selling program. No open-market cash purchases by any officer or director have been reported in 2026.",
+        "institutional_buying": "No newly disclosed 13F/13G buying identified since the last review; no fresh institutional filings surfaced.",
         "catalysts": [
-          "The binding FERC dispute remains unresolved: Oklo's emergency complaint (Docket EL26-101, filed Aug 27-28) over PJM's withdrawal of its 750-MW Pike County, Ohio interconnection request is still pending, with PJM's formal defense (filed Aug 31) under review and no FERC ruling issued as of this morning; Oklo's own requested response deadline for PJM was Sept 4, now essentially one day away, but FERC itself has set no ruling date.",
-          "A Sept 2 Nuclear News report confirmed Oklo also filed a related emergency complaint over a separate early-stage Virginia interconnection project dropped from the same PJM study cycle, which a company spokesperson stressed is not a deployment announcement or final investment decision -- this adds context to, but does not resolve, the core Ohio dispute.",
-          "Holtec Nuclear's Sept 2 Nasdaq IPO filing remains a fresh competitive-overhang data point for the small modular reactor sector, alongside earlier IPO filings from X-Energy and Deep Fission.",
-          "Q2 2026 earnings (reported Aug 7) beat on revenue but showed a wider-than-expected net loss; no new financial disclosures have emerged since."
+          "FERC has not yet ruled on Oklo's emergency complaint (filed Aug 28, 2026) seeking reinstatement of its 750-MW Virginia/Ohio-area interconnection request after PJM withdrew it from Cycle 01; PJM's formal defense (filed Aug 31) remains under review with no decision issued as of this evening (Sept 3)",
+          "Holtec Nuclear Corporation filed for a Nasdaq IPO (ticker HNUC) on Sept 2, 2026, adding a revenue-generating, better-capitalized SMR competitor to the public markets",
+          "Oklo's Groves Isotope Test Reactor in Texas achieved criticality in August 2026, and the company's Idaho Aurora project cleared its preliminary design safety agreement with the DOE in June 2026"
         ],
-        "analyst_moves": [
-          "No new analyst rating or price-target action has surfaced since Citigroup's Aug 10 cut to $57.50 and Truist's Aug 10 cut to $51; consensus remains a 'Moderate Buy' with an average target well above the current price."
-        ]
+        "analyst_moves": []
       },
       "score": 2.5,
       "status": "MONITORING",
-      "thesis": "Oklo's long-term bull case as a leading advanced-fission supplier to hyperscale data-center demand remains intact, but the stock continues to fail nearly every screening criterion in the near term. There is still no genuine insider buying -- recent Form 4s are RSU vesting events, not cash purchases -- and institutional flow remains a routine Q2 trickle rather than a fresh signal. The binding catalyst is the FERC dispute over PJM's withdrawal of Oklo's 750-MW Ohio interconnection request: Oklo asked FERC to rule by Sept 4, which is now essentially one day away, but as of this morning no ruling has been issued and the outcome remains genuinely uncertain in either direction.",
-      "risks": "PJM's withdrawal could stand, pushing the Ohio project (and its Meta data-center backing) into a later interconnection cycle, adding at least 14 months of delay and higher costs; a related dispute over a separate early-stage Virginia project adds further regulatory uncertainty. Newly filed competitor IPOs, including Holtec Nuclear, X-Energy, and Deep Fission, add competitive and capital-raising pressure across the small modular reactor sector. Continued absence of insider buying, wide losses, and minimal current revenue leave the stock vulnerable to further de-rating until the FERC picture clears, which could happen abruptly given the imminent Sept 4 timeline.",
+      "thesis": "Oklo continues to advance its Aurora and Groves reactor programs with real DOE regulatory milestones, but the stock lacks the accumulation signature this screen requires: insiders are net sellers on a recurring schedule, there is no confirmed institutional buying, and a binding regulatory dispute with PJM over a 750-MW interconnection request remains unresolved at FERC. Until a ruling clarifies the interconnection outlook and insiders demonstrate open-market conviction, the setup does not meet the bar for a higher-conviction watch designation.",
+      "risks": "An adverse or further-delayed FERC ruling on the PJM interconnection dispute would remove a meaningful piece of near-term development pipeline and could pressure shares further. The newly announced Holtec Nuclear IPO introduces a well-capitalized, revenue-generating competitor that could compete for investor capital in the SMR space. Oklo remains pre-revenue on commercial power (first commercial revenue not expected before 2028) and continues to burn cash, funded via at-the-market stock issuance that carries dilution risk.",
       "sources": [
         {
-          "title": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
+          "title": "PJM drops Oklo advanced nuclear project from interconnection queue",
           "url": "https://www.utilitydive.com/news/pjm-oklo-advanced-nuclear-ferc-interconnection/829150/"
         },
         {
@@ -738,32 +817,20 @@
           "url": "https://www.ans.org/news/article-8362/oklo-claims-pjm-improperly-dropped-its-virginia-project/"
         },
         {
-          "title": "Oklo Asks FERC to Reverse PJM's Withdrawal of a 750 MW Project Over an Inverter Ride-Through Test",
+          "title": "Oklo Asks FERC to Reverse PJM's Withdrawal of a 750 MW Project",
           "url": "https://mgrid.org/2026/08/31/oklo-asks-ferc-to-reverse-pjms-withdrawal-of-a-750-mw-project-over-an-inverter-ride-through-test/"
         },
         {
-          "title": "PJM Docket EL26-101 filing (Oklo Inc. v. PJM Interconnection)",
-          "url": "https://www.pjm.com/-/media/DotCom/documents/ferc/filings/2026/20260828-el26-101-000.pdf"
+          "title": "A New Nuclear Rival Recently Filed to Go Public. Should Oklo Investors Be Worried?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-rival-recently-filed-public-152800235.html"
         },
         {
-          "title": "A New Nuclear Rival Recently Filed to Go Public. Should Oklo Investors Be Worried? - The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/09/02/a-new-nuclear-rival-recently-filed-to-go-public-sh/"
-        },
-        {
-          "title": "Oklo product chief exercises 4173 RSUs - Form 4 filing",
-          "url": "https://www.stocktitan.net/sec-filings/OKLO/form-4-oklo-inc-insider-trading-activity-20dbaaff61ab.html"
-        },
-        {
-          "title": "Bank of New York Mellon Corp Makes New Investment in Oklo Inc. (OKLO)",
-          "url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-new-york-mellon-corp-makes-new-investment-in-oklo-inc-oklo-2026-08-31/"
-        },
-        {
-          "title": "Oklo Inc. - SEC Form 4 Insider Trading Screener",
+          "title": "OKLO - Oklo Inc. - SEC Form 4 Insider Trading Screener",
           "url": "http://openinsider.com/OKLO"
         },
         {
-          "title": "Oklo (OKLO) Stock Price, News & Analysis",
-          "url": "https://www.marketbeat.com/stocks/NYSE/OKLO/"
+          "title": "Oklo Inc. Stock Quote (U.S.: NYSE) - MarketWatch",
+          "url": "https://www.marketwatch.com/investing/stock/oklo"
         }
       ],
       "added_date": "2026-08-27",
@@ -775,26 +842,27 @@
       "sector": "Quantum Computing",
       "price": 20.7,
       "change_1m_pct": -5.82,
-      "volume_trend": "Volume remains light and event-driven rather than building a genuine accumulation trend. Before-hours volume this morning was only about 11,000 shares, and the stock has repeatedly moved on discrete news items (the June lawsuit settlement, the June lock-up expiration, the September 1 satellite-demo announcement) rather than showing a steady rising-volume base under quiet accumulation.",
+      "volume_trend": "Volume remains light and event-driven rather than building a genuine accumulation trend. The stock is trading in the roughly $20.20-$21.40 range intraday on volume of about 170,000-200,000 shares -- near its recent pattern -- rather than showing a steady rising-volume base under quiet accumulation. Trading has continued to be dominated by discrete news catalysts (the June lawsuit settlement, the June lock-up expiration, the September 1 satellite-demo announcement, and today's warrant expiration) rather than organic demand.",
       "trend": "consolidating",
       "signals": {
-        "insider_buying": "Still no genuine open-market cash insider buying. All Form 4 activity on record remains director/officer RSU-to-share conversions at $0.00 per share (Bers, Lefebvre d'Ovidio, Ritchie, Calabria, Feenan, Wilder, Willcocks, Leaver) plus open-market warrant and stock sales by director Lefebvre d'Ovidio's Heritage Assets SCSp entity (including a $1.64M combined stock/warrant sale June 30-July 1, 2026). No new insider filings have appeared since Wednesday evening.",
-        "institutional_buying": "Unchanged since Wednesday evening: thin and mixed. Institutional ownership sits around 16.6% per MarketBeat's 13F tracker, with 31 institutional buyers versus 9 sellers over the trailing 12 months and $56.97M in gross inflows, but per-filer detail remains small-dollar and scattered (Bank of New York Mellon ~$2.95M, Citadel ~$4.9M, Millennium ~$2.34M, Man Group ~$779K). Renaissance Technologies exited its position entirely in Q2 2026. The most recent 13F on record is still dated August 6, 2026 -- no new 13F/13G filings have surfaced.",
+        "insider_buying": "No genuinely new insider filings have appeared since this morning's review. All Form 4 activity on record remains director/officer RSU-to-share conversions at $0.00 per share (Calabria, Leaver, Feenan, Willcocks, Pointon, Wilder, Bers, Russell) plus open-market warrant and stock sales by director Lefebvre d'Ovidio's Heritage Assets SCSp entity, including a $1.64M combined stock/warrant sale June 30-July 1, 2026 and smaller warrant sales in July. There is still no genuine open-market cash insider buying on record.",
+        "institutional_buying": "Unchanged from this morning: institutional ownership remains around 16.6% per MarketBeat's 13F tracker, with 31 institutional buyers versus 9 sellers over the trailing 12 months and $56.97M in gross inflows, but per-filer detail remains small-dollar and scattered (Bank of New York Mellon ~$2.95M, Citadel ~$4.9M, Millennium ~$2.34M, Man Group ~$779K). Renaissance Technologies exited its position entirely in Q2 2026. The most recent 13F on record remains dated August 6, 2026 -- no new 13F/13G filings have surfaced today.",
         "catalysts": [
-          "CONFIRMED: The ARQQW public warrant expiration and Nasdaq delisting has now completed as planned. Nasdaq's official Security Status Updates page lists an \"Issue Suspensions\" event for ARQQW effective September 3, 2026, confirming the warrants -- which expired at 5:00pm New York time today -- have been formally suspended from trading and delisted, removing roughly 5.44 million shares of dilution overhang per the company's 6-K filing.",
-          "Arqit's 2026 Annual General Meeting remains confirmed for September 8, 2026 in London, where shareholders will vote on re-electing directors Carlo Calabria and Andrew Leaver.",
-          "As previously confirmed, Arqit is a UK-based foreign private issuer with a September 30 fiscal year-end that reports full-year results semi-annually (typically in December); it does not report quarterly, so no earnings event was due or occurred around this warrant-expiration date.",
-          "The September 1 quantum-safe satellite communications demonstration with Es'hailSat and AIEE in Qatar remains the most recent operational news; the stock initially fell roughly 5% on the announcement but has since recovered."
+          "CONFIRMED COMPLETE: The ARQQW public warrant expiration and Nasdaq delisting has now formally completed as scheduled, with the warrants expiring at 5:00pm New York time on September 3, 2026 and being suspended/delisted from Nasdaq, removing roughly 5.44 million shares of dilution overhang per the company's 6-K filing. This was fully anticipated and is unchanged in substance from this morning's assessment.",
+          "A separate voluntary lock-up expiration affecting roughly 105.9 million shares (61.3 million held by officers, directors and employees, subject to black-out restrictions until year-end results; the remainder held by institutional and early investors) also reached its deadline around September 3, contributing to a reported ~12% share-price slide on September 2 ahead of the deadline -- this is a real but already-known overhang event, not a fresh development.",
+          "Arqit's 2026 Annual General Meeting remains confirmed for September 8, 2026 in London, where shareholders will vote on re-electing directors Carlo Calabria and Andrew Leaver -- a routine procedural event, not a fundamental catalyst.",
+          "As previously confirmed, Arqit is a UK-based foreign private issuer with a September 30 fiscal year-end that reports full-year results semi-annually (typically in December); it does not report quarterly, so no earnings event was due or occurred around today's warrant-expiration date.",
+          "The September 1 quantum-safe satellite communications demonstration with Es'hailSat and AIEE in Qatar remains the most recent operational news; the stock initially fell on the announcement but has traded in a narrow range since."
         ],
         "analyst_moves": [
-          "No new analyst rating changes or price-target revisions have appeared since Wednesday evening. Coverage remains extremely sparse (1-2 analysts) and split, with MarketBeat showing a consensus \"Hold\" (one Buy, one Sell) and a $60 average price target that a low analyst count makes low-confidence, while the stock trades near $20-21.",
-          "The most recent substantive analyst actions remain Seeking Alpha's Strong Sell initiation (\"Arqit Quantum: The Little Boat That Couldn't,\" August 25, 2026) and the Wall Street Zen/Weiss Ratings downgrades from earlier in the summer."
+          "No new analyst rating changes or price-target revisions have appeared today. Coverage remains extremely sparse (1-2 analysts) and split, with MarketBeat showing a consensus \"Hold\" (one Buy, one Sell) and a $60 average price target that a low analyst count makes low-confidence, while the stock trades near $20-21.",
+          "The most recent substantive analyst actions remain Seeking Alpha's Strong Sell initiation (\"Arqit Quantum: The Little Boat That Couldn't,\" August 25, 2026) and H.C. Wainwright's existing Buy rating with a $60 price target from October 2025 -- no changes since."
         ]
       },
       "score": 2,
       "status": "MONITORING",
-      "thesis": "The one confirmed, anticipated event since Wednesday evening has now completed: Nasdaq's official status feed shows ARQQW warrants formally suspended and delisted effective September 3, 2026, clearing roughly 5.44 million shares of dilution overhang exactly as scheduled. The stock is up modestly in premarket trading (around $20.70, versus Wednesday's $18.90 close) but on very thin volume (~11,000 shares before-hours), consistent with a technical removal of overhang rather than a fresh fundamental catalyst. No new insider cash buying, no new institutional 13F/13G activity, and no new analyst action have emerged. With the next scheduled AGM vote on September 8 procedural rather than fundamental, and Arqit's next real catalyst -- full-year results as a semi-annual reporter -- still roughly three months out (December 2026), ARQQ does not yet show the sustained multi-signal quiet-accumulation pattern this screen looks for and remains in the lowest-conviction monitoring tier.",
-      "risks": "Extremely small revenue base ($623K in H1 FY2026) against a market cap near $355-360M implies a valuation multiple analysts view as unsustainable (Seeking Alpha cites roughly 397.6x FY26 EV/Sales); recurring dilution risk (ATM issuance, historical heavy share-count growth) persists even as the ARQQW warrant overhang is now cleared; insiders show no cash-buying conviction, with one director having sold $1.64M in stock/warrants earlier this summer; the true next fundamental catalyst (FY2026 full-year results, expected around December 2026) is still roughly three months away, leaving the stock exposed to further event-driven volatility with no clear near-term catalyst to sustainably re-rate it.",
+      "thesis": "A full-day re-check found no genuinely new developments beyond what was already known this morning. The one anticipated event -- Nasdaq's formal suspension and delisting of the ARQQW warrants -- has now completed exactly as scheduled, clearing roughly 5.44 million shares of dilution overhang, and a separate, previously-flagged lock-up expiration affecting ~105.9 million shares also reached its deadline around the same date (contributing to a reported ~12% slide on September 2). The stock has traded in a narrow $20.20-$21.40 intraday range on unremarkable volume, consistent with digestion of known overhang events rather than a fresh fundamental catalyst. No new insider cash buying, no new institutional 13F/13G activity, and no new analyst action have emerged today. With the September 8 AGM vote procedural rather than fundamental, and Arqit's next real catalyst -- full-year results as a semi-annual reporter -- still roughly three months out (December 2026), ARQQ does not yet show the sustained multi-signal quiet-accumulation pattern this screen looks for and remains in the lowest-conviction monitoring tier.",
+      "risks": "Extremely small revenue base ($623K in H1 FY2026) against a market cap near $310-355M implies a valuation multiple analysts view as unsustainable (Seeking Alpha cites roughly 397.6x FY26 EV/Sales); recurring dilution risk (ATM issuance, historical heavy share-count growth) persists even as the ARQQW warrant overhang is now cleared; a large voluntary lock-up covering ~105.9 million shares also expired around September 3, adding a second source of potential post-lock-up selling pressure even though most insider-held shares remain black-out restricted until year-end results are reported; insiders show no cash-buying conviction, with one director having sold $1.64M in stock/warrants earlier this summer; the true next fundamental catalyst (FY2026 full-year results, expected around December 2026) is still roughly three months away, leaving the stock exposed to further event-driven volatility with no clear near-term catalyst to sustainably re-rate it.",
       "sources": [
         {
           "title": "Nasdaq Security Status Updates (ARQQW Issue Suspension, effective 2026-09-03)",
@@ -817,12 +885,8 @@
           "url": "https://www.marketwatch.com/investing/stock/arqq"
         },
         {
-          "title": "ARQQW: Arqit Quantum Equity Warrant Exp 03 Sep 2026 - CNBC",
-          "url": "https://www.cnbc.com/quotes/ARQQW"
-        },
-        {
-          "title": "Arqit, Es'hailSat and AIEE Demonstrate Quantum-Safe Satellite Communications - StockTitan",
-          "url": "https://www.stocktitan.net/news/ARQQ/arqit-es-hail-sat-and-aiee-demonstrate-quantum-safe-satellite-5zzblwlrmz3r.html"
+          "title": "Arqit Quantum stock slides 12% ahead of voluntary lock-up expiration - Simply Wall St / Seeking Alpha",
+          "url": "https://simplywall.st/stocks/us/software/nasdaq-arqq/arqit-quantum"
         },
         {
           "title": "Arqit Quantum: The Little Boat That Couldn't - Seeking Alpha",
@@ -843,6 +907,10 @@
         {
           "title": "Arqit Quantum Inc. (ARQQ) Stock Price, News, Quote & History - Yahoo Finance",
           "url": "https://finance.yahoo.com/quote/ARQQ/"
+        },
+        {
+          "title": "Arqit Quantum (ARQQ) Insider Holders - SecForm4",
+          "url": "https://www.secform4.com/insider-holders/1859690.html"
         }
       ],
       "added_date": "2026-08-27",
@@ -853,169 +921,199 @@
     {
       "ticker": "OPTX",
       "sector": "Defense Technology",
-      "headline": "The satellite-waveguide order news (reported Aug 25-26, 2026) remains the most recent confirmed catalyst -- no newer contract announcements have surfaced.",
+      "headline": "Company swung to a profit in Q2 2026 on defense and communications-segment growth, with shares up 12.3% since the earnings report and 7.9% over the trailing month",
       "score": 7
     },
     {
       "ticker": "OPTX",
       "sector": "Defense Technology",
-      "headline": "A Sept 2 Zacks recap confirmed Q2 2026 results showed the company swinging to earnings on defense and communications segment growth, consistent with the previously reported Aug 10 print showing revenue up 26.1% year-over-year.",
+      "headline": "New order to build specialized high-tech waveguides for satellite applications, announced Aug 26, 2026 (previously identified catalyst, intact but not new this cycle)",
       "score": 7
     },
     {
-      "ticker": "NTHI",
-      "sector": "Biotech/CNS Oncology",
-      "headline": "August 12-13, 2026 positive glioma trial data showing NEO100 reaching 26.09-month median overall survival, which drove the stock higher (Investing.com, https://www.investing.com/news/stock-market-news/neonc-technologies-stock-jumps-on-positive-glioma-trial-data-93CH-4854879)",
-      "score": 7
-    },
-    {
-      "ticker": "NTHI",
-      "sector": "Biotech/CNS Oncology",
-      "headline": "August 13, 2026 Stonegate Capital Partners coverage update following the trial data (StockTitan, https://www.stocktitan.net/news/NTHI/stonegate-capital-partners-updates-coverage-on-ne-onc-technologies-kuhjbbednz3a.html)",
-      "score": 7
-    },
-    {
-      "ticker": "AVAV",
-      "sector": "Defense Technology",
-      "headline": "Genuinely new and material: on Sept 2 at 3:15 PM ET, AeroVironment announced a $464.8 million U.S. Army Other Transaction Agreement for its LOCUST X3 laser weapon system under the Enduring-High Energy Laser (E-HEL) program -- the first-ever U.S. production contract for a directed-energy counter-drone system, marking the sector's shift from prototype to series production.",
-      "score": 6.5
-    },
-    {
-      "ticker": "AVAV",
-      "sector": "Defense Technology",
-      "headline": "The stock was trading roughly 6% higher in Thursday pre-market action (around $154) following the announcement, with BTIG (Buy, $205 target) and William Blair (Buy) both reaffirming positive ratings citing the contract as validation of AV's directed-energy platform and a credibility restorer for the growth story.",
-      "score": 6.5
-    },
-    {
-      "ticker": "UMAC",
-      "sector": "Defense Technology",
-      "headline": "No new company-specific catalyst has surfaced since the prior review; the drone-supply-chain and U.S.-manufacturing narrative that has previously supported the stock, including the Q2 2026 earnings call emphasis on capacity ahead of Q3 growth, remains the operative backdrop.",
+      "ticker": "CAPR",
+      "sector": "Biotech",
+      "headline": "The stock has recovered sharply off its early-August lows (~$4) to the high-$9 range (~+125% over the past month), though this week saw a modest pullback attributable to renewed securities class-action law-firm announcements repeating procedural deadline information (lead-plaintiff deadline Sept 28, 2026) tied to the pre-existing lawsuit over deramiocel disclosures -- not a new substantive catalyst, just continued media coverage of already-known litigation",
       "score": 6.5
     },
     {
       "ticker": "CAPR",
       "sector": "Biotech",
-      "headline": "August 24, 2026 FDA extension of the deramiocel PDUFA target action date to November 22, 2026 while the agency reviews a revised BLA amendment -- already a known catalyst as of the prior evening's review",
+      "headline": "The extension of deramiocel's PDUFA target action date to Nov 22, 2026 (announced Aug 24) and the FDA advisory committee data concerns (late July) remain the operative, already-known catalysts pending resolution",
       "score": 6.5
     },
     {
-      "ticker": "CAPR",
-      "sector": "Biotech",
-      "headline": "August 14, 2026 Cantor Fitzgerald upgrade to Overweight with price target raised to $28, and Oppenheimer's Outperform maintenance -- both already known prior to this review window",
+      "ticker": "NTHI",
+      "sector": "Biotech/CNS Oncology",
+      "headline": "Aug 12, 2026: NeOnc reported positive topline Phase 2a results for intranasal NEO100 in recurrent IDH1-mutant high-grade glioma, showing 48.9% progression-free survival",
+      "score": 6.5
+    },
+    {
+      "ticker": "NTHI",
+      "sector": "Biotech/CNS Oncology",
+      "headline": "No new catalyst dated since the morning review was identified",
       "score": 6.5
     },
     {
       "ticker": "RDW",
       "sector": "Space Infrastructure",
-      "headline": "A Sept 3 recap article on Redwire's 24% August stock gain reiterates already-known Q2 2026 results (revenue of slightly more than $117 million, up nearly 90% year over year, and a record backlog above $542 million) -- this is a retrospective of prior-reported earnings, not a new catalyst (https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-rocketed-24-064245288.html)",
+      "headline": "Redwire rang the NYSE opening bell on Sept 3 to mark its five-year anniversary and highlight its Edge Autonomy expansion -- a symbolic/PR event, not a fundamental catalyst.",
+      "score": 6
+    },
+    {
+      "ticker": "RDW",
+      "sector": "Space Infrastructure",
+      "headline": "Announced a strategic investment in next-generation phased-array antenna technology for warfighter and national-security communications, disclosed Sept 1.",
+      "score": 6
+    },
+    {
+      "ticker": "AVAV",
+      "sector": "Defense Technology",
+      "headline": "$464.8 million U.S. Army production contract for the Enduring-High Energy Laser (E-HEL) program, funding delivery of LOCUST X3 directed-energy laser weapon systems -- the first production award of its kind in U.S. history, announced Sept 2, 2026",
+      "score": 6
+    },
+    {
+      "ticker": "AVAV",
+      "sector": "Defense Technology",
+      "headline": "AeroVironment has an upcoming earnings date on Sept 9, 2026",
       "score": 6
     },
     {
       "ticker": "PDYN",
       "sector": "AI Infrastructure/Robotics",
-      "headline": "Palladyne AI announced on Aug 31 that it will participate in investor conferences on Sept 9-10, 2026 -- a scheduled investor-relations event rather than a new operational or contract catalyst.",
+      "headline": "SwarmOS integration partnership with NORDA Dynamics' combat-proven Underdog Autonomy Module for GNSS-denied target detection and engagement",
       "score": 6
     },
     {
       "ticker": "PDYN",
       "sector": "AI Infrastructure/Robotics",
-      "headline": "The underlying catalyst pipeline remains unchanged from prior reviews: NORDA SwarmOS autonomy integration, the Orkid Technologies partnership, Project Convergence Capstone 6 participation, and Defense Advisory Board engagement.",
+      "headline": "Fixed-wing UAV partnership with Orkid Tech to extend Palladyne Pilot and SwarmOS to a long-range, NDAA-compliant VTOL platform",
       "score": 6
     },
     {
-      "ticker": "AMLX",
-      "sector": "Biotech",
-      "headline": "August 2026 Phase 3 LUCIDITY topline data supporting avexitide, which drove a sharp rally (Amylyx Pharmaceuticals investor materials, https://investors.amylyx.com/investor-relations/)",
+      "ticker": "UMAC",
+      "sector": "Defense Technology",
+      "headline": "New strategic partnership with Altana AI to strengthen supply-chain intelligence and NDAA-compliance verification, announced Sept 3, 2026",
       "score": 6
     },
     {
-      "ticker": "AMLX",
-      "sector": "Biotech",
-      "headline": "Concurrent ~$500M equity raise following the data readout (Simply Wall St, https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-amlx/amylyx-pharmaceuticals/news/amylyx-pharmaceuticals-amlx-is-down-101-after-strong-phase-3)",
-      "score": 6
-    },
-    {
-      "ticker": "BHVN",
-      "sector": "Biotech",
-      "headline": "August 26, 2026 SK Biopharmaceuticals licensing/collaboration deal -- already a known catalyst as of the prior evening's review, not new",
+      "ticker": "UMAC",
+      "sector": "Defense Technology",
+      "headline": "Continued benefit from the Trump administration's tariffs of up to 100% on foreign-made drones and components, supporting the domestic-sourcing narrative",
       "score": 6
     },
     {
       "ticker": "BHVN",
       "sector": "Biotech",
-      "headline": "August 27, 2026 Seeking Alpha reiteration of a Buy thesis tied to the Opakalim epilepsy licensing agreement, also predating this review window (Seeking Alpha, https://seekingalpha.com/article/4940971-biohaven-buy-reiterated-on-opakalim-license-agreement-for-epilepsy-and-more)",
+      "headline": "Aug 26, 2026: Biohaven and SK Biopharmaceuticals entered a strategic global licensing and collaboration agreement for Biohaven's Kv7 ion channel platform and lead candidate opakalim in epilepsy, a deal reported to be worth up to roughly $790 million in upfront and milestone payments",
+      "score": 6
+    },
+    {
+      "ticker": "BHVN",
+      "sector": "Biotech",
+      "headline": "No new catalyst dated since the morning review was identified; the SK Biopharmaceuticals deal predates this morning's assessment and was already reflected in the prior score",
       "score": 6
     },
     {
       "ticker": "TMCI",
       "sector": "Medtech/Diagnostics",
-      "headline": "August 7, 2026 Q2 2026 earnings beat with narrowing cash burn (Treace Medical Concepts investor relations, https://investors.treace.com/news-releases/news-release-details/treace-medical-concepts-reports-second-quarter-2026-financial)",
+      "headline": "No new catalyst dated since the morning review was identified; the CEO's ongoing buying program remains the primary supportive signal",
       "score": 6
     },
     {
       "ticker": "GH",
       "sector": "Medtech/Diagnostics",
-      "headline": "August 24, 2026 final judgment in the TwinStrand Biosciences/University of Washington patent suit awarding more than $245.2 million in damages, royalties, and interest (BusinessWire, https://www.businesswire.com/news/home/20260824967581/en/TwinStrand-Biosciences-Announces-Final-Judgment-in-Patent-Infringement-Suit-Against-Guardant-Health-Awarding-TwinStrand-and-the-University-of-Washington-More-Than-$245.2-Million-in-Damages-Accrued-Royalties-and-Interest)",
+      "headline": "Aug 24, 2026: Guardant Health said it will appeal the U.S. District Court for Delaware's final judgment awarding TwinStrand Biosciences and the University of Washington more than $245.2 million in damages, interest, and accrued royalties in the long-running Duplex Sequencing patent case; as of Sept 3 evening, this remains a stated intent only -- no formal notice of appeal has been filed with the court, and Guardant Reveal and Shield products were excluded from the final order",
       "score": 5.5
     },
     {
       "ticker": "GH",
       "sector": "Medtech/Diagnostics",
-      "headline": "Guardant Health stated on August 24 that it intends to appeal the judgment to the Federal Circuit, but as of this review no formal notice of appeal has been filed with the court -- only a stated intent (Guardant Health investor relations, https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Appeal-Federal-District-Court-Judgment/default.aspx)",
+      "headline": "Q2 2026 revenue growth continued (10-Q filed July 30), with the company noting no conversion notices yet received on its $600M 2031 convertible notes",
       "score": 5.5
-    },
-    {
-      "ticker": "TEM",
-      "sector": "AI Infrastructure/Healthcare AI",
-      "headline": "Q2 2026 results reported July 30, 2026 showing continued revenue growth in the AI-enabled diagnostics business (BusinessWire, https://www.businesswire.com/news/home/20260730328545/en/Tempus-Reports-Second-Quarter-2026-Results)",
-      "score": 5
     },
     {
       "ticker": "FLY",
       "sector": "Space Infrastructure",
-      "headline": "No genuinely new contract or catalyst news dated within this window; the Lockheed Martin multi-launch extension through 2031 (Aug 11), NASA Incus mission award, and Space Force contract flow all predate this screening period and remain unchanged (https://fireflyspace.com/news/firefly-aerospace-announces-extension-of-multi-launch-agreement-with-lockheed-martin-through-2031/)",
+      "headline": "Record Q2 2026 revenue of $117.7 million, topping $100 million for the first time in company history, with backlog rising to roughly $1.5 billion.",
+      "score": 4.5
+    },
+    {
+      "ticker": "FLY",
+      "sector": "Space Infrastructure",
+      "headline": "Company reaffirmed full-year 2026 revenue guidance of $420-450 million, with 95% already booked at the midpoint.",
       "score": 4.5
     },
     {
       "ticker": "ASTS",
       "sector": "Space Infrastructure",
-      "headline": "Berenberg initiated coverage with a Buy rating and $92 price target on Sept 2, 2026, driving an 11-13% intraday pop \u2014 already reflected in the prior evening's score, not a new development this cycle (https://www.investing.com/news/analyst-ratings/berenberg-initiates-ast-spacemobile-stock-with-buy-rating-on-tech-lead-93CH-4885464)",
+      "headline": "Berenberg initiated coverage with a Buy rating and $92 price target on Sept 2-3, part of a broader bullish space-sector call.",
       "score": 4
     },
     {
       "ticker": "ASTS",
       "sector": "Space Infrastructure",
-      "headline": "A Sept 3 retrospective article notes AST SpaceMobile has pushed its target of 45 satellites in orbit from end-2026 to early 2027, a previously announced timeline shift being re-covered rather than new news (https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-launch-094800599.html)",
+      "headline": "Company confirmed its 45-satellite BlueBird deployment target has slipped from late 2026 to early 2027, a negative catalyst reported the morning of Sept 3.",
       "score": 4
     },
     {
       "ticker": "RKLB",
       "sector": "Space Infrastructure",
-      "headline": "Rocket Lab successfully launched its 94th Electron mission for Synspective on Sept 2-3, 2026, a routine and already-expected launch rather than a new strategic catalyst (https://investors.rocketlabcorp.com/news-releases/news-release-details/mission-success-rocket-lab-launches-94th-electron-mission)",
+      "headline": "Rocket Lab successfully launched its 94th Electron mission on Sept 2, deploying an Earth-imaging satellite.",
       "score": 4
+    },
+    {
+      "ticker": "RKLB",
+      "sector": "Space Infrastructure",
+      "headline": "Q2 2026 revenue hit a record $234 million, up 62% year over year, with $437 million in new bookings, reported in early August.",
+      "score": 4
+    },
+    {
+      "ticker": "AMLX",
+      "sector": "Biotech",
+      "headline": "Aug 18, 2026: positive topline Phase 3 LUCIDITY results for avexitide in post-bariatric hypoglycemia, meeting the primary endpoint with a 55% reduction in Level 2/3 hypoglycemic events versus placebo and clearing all secondary endpoints",
+      "score": 4
+    },
+    {
+      "ticker": "AMLX",
+      "sector": "Biotech",
+      "headline": "Company upsized and priced a $500M equity offering (from an initially announced $350M) to fund pre-commercial and manufacturing scale-up ahead of a planned late-2026 NDA submission",
+      "score": 4
+    },
+    {
+      "ticker": "TEM",
+      "sector": "AI Infrastructure/Healthcare AI",
+      "headline": "Aug 19, 2026: Moderna and Merck reported Phase 3 success for their melanoma cancer vaccine (INTerpath-001) meeting its recurrence-free survival endpoint, which investors read as validating Tempus's $1.5 billion all-stock acquisition of Personalis for molecular residual disease (MRD) technology; shares jumped roughly 24% that day",
+      "score": 3
+    },
+    {
+      "ticker": "TEM",
+      "sector": "AI Infrastructure/Healthcare AI",
+      "headline": "No newer, previously-unreported catalyst was identified since the morning review; the Moderna/Merck-linked rally and Personalis deal both predate this morning's assessment",
+      "score": 3
     },
     {
       "ticker": "OKLO",
       "sector": "Nuclear Energy",
-      "headline": "The binding FERC dispute remains unresolved: Oklo's emergency complaint (Docket EL26-101, filed Aug 27-28) over PJM's withdrawal of its 750-MW Pike County, Ohio interconnection request is still pending, with PJM's formal defense (filed Aug 31) under review and no FERC ruling issued as of this morning; Oklo's own requested response deadline for PJM was Sept 4, now essentially one day away, but FERC itself has set no ruling date.",
+      "headline": "FERC has not yet ruled on Oklo's emergency complaint (filed Aug 28, 2026) seeking reinstatement of its 750-MW Virginia/Ohio-area interconnection request after PJM withdrew it from Cycle 01; PJM's formal defense (filed Aug 31) remains under review with no decision issued as of this evening (Sept 3)",
       "score": 2.5
     },
     {
       "ticker": "OKLO",
       "sector": "Nuclear Energy",
-      "headline": "A Sept 2 Nuclear News report confirmed Oklo also filed a related emergency complaint over a separate early-stage Virginia interconnection project dropped from the same PJM study cycle, which a company spokesperson stressed is not a deployment announcement or final investment decision -- this adds context to, but does not resolve, the core Ohio dispute.",
+      "headline": "Holtec Nuclear Corporation filed for a Nasdaq IPO (ticker HNUC) on Sept 2, 2026, adding a revenue-generating, better-capitalized SMR competitor to the public markets",
       "score": 2.5
     },
     {
       "ticker": "ARQQ",
       "sector": "Quantum Computing",
-      "headline": "CONFIRMED: The ARQQW public warrant expiration and Nasdaq delisting has now completed as planned. Nasdaq's official Security Status Updates page lists an \"Issue Suspensions\" event for ARQQW effective September 3, 2026, confirming the warrants -- which expired at 5:00pm New York time today -- have been formally suspended from trading and delisted, removing roughly 5.44 million shares of dilution overhang per the company's 6-K filing.",
+      "headline": "CONFIRMED COMPLETE: The ARQQW public warrant expiration and Nasdaq delisting has now formally completed as scheduled, with the warrants expiring at 5:00pm New York time on September 3, 2026 and being suspended/delisted from Nasdaq, removing roughly 5.44 million shares of dilution overhang per the company's 6-K filing. This was fully anticipated and is unchanged in substance from this morning's assessment.",
       "score": 2
     },
     {
       "ticker": "ARQQ",
       "sector": "Quantum Computing",
-      "headline": "Arqit's 2026 Annual General Meeting remains confirmed for September 8, 2026 in London, where shareholders will vote on re-electing directors Carlo Calabria and Andrew Leaver.",
+      "headline": "A separate voluntary lock-up expiration affecting roughly 105.9 million shares (61.3 million held by officers, directors and employees, subject to black-out restrictions until year-end results; the remainder held by institutional and early investors) also reached its deadline around September 3, contributing to a reported ~12% share-price slide on September 2 ahead of the deadline -- this is a real but already-known overhang event, not a fresh development.",
       "score": 2
     }
   ]
